@@ -41,6 +41,19 @@
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases |
 
 ## Books
+### CV
+| Title  | Author |
+| ------ | ------ |
+| [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) | Richard Szeliski |
+| [Computer Vision: Models, Learning, and Inference]() | Simon J.D. Prince |
+
+### ML/DL
+| Title  | Author |
+| ------ | ------ |
+| [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. |
+| [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. |
+| [Intro to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) | Chip Huyen |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon J.D. Prince |
 
 ## Cheat Sheets
 
