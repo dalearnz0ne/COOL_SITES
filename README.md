@@ -6,6 +6,7 @@
 | **[Books](#books)**
 | **[Cheat Sheets](#cheat-sheets)**
 | **[Courses](#courses)**
+| **[Newsletters](#newsletters)**
 | **[Papers](#papers)**
 | **[Projects](#projects)**
 | **[Research](#research)**
@@ -163,6 +164,14 @@
 | ---- | --------- | ------ | ---- |
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
 | [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
+
+## Newsletters
+### ML/DL
+| Name | Author |
+| ---- | ------ |
+| [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
+| [Import AI](https://jack-clark.net/) | Jack Clark |
+| [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
 
 ## Papers
 ### CV/ML/DL
