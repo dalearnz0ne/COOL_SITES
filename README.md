@@ -12,6 +12,7 @@
 | **[Research](#research)**
 | **[Tools](#tools)**
 | **[Tutorials](#tutorials)**
+| **[Xtras](#xtras)**
 |
 
 ## Blogs
@@ -157,11 +158,16 @@
 | [UvA Deep Learning Course](https://uvadlc.github.io/) | | Xiantong Zhen | 2021 |
 | [UvA Deep Learning II Course](https://uvadl2c.github.io/) | | Efstratios Gavves | 2022 |
 
+#### Theory
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+| [Categories for AI](https://cats.for.ai/) | YouTube | Andrew Dudzik | 2022 |
+
 ### Geometric DL
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
-| AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
-| AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
+| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
+| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
 | First Italian School on Geometric Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 | [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
@@ -214,6 +220,9 @@
 #### Reading Lists
 | Name | Author |
 | ---- | ------ |
+| [AI/ML Papers List](https://aman.ai/papers/) | Aman Chadha |
+| [Anthology of Modern ML](https://github.com/dmarx/anthology-of-modern-ml) | David Marx |
+| [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) | Dan Turkel |
 | [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
 
 #### With Code
@@ -265,3 +274,9 @@
 | [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
+
+## Xtras
+### DL
+| Name | Author |
+| ---- | ------ |
+| [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | Mario |
