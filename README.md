@@ -92,6 +92,13 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [MIT Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
+| [Stanford CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | [Notes](https://cs231n.github.io/) \| [YouTube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | Fei-Fei Li | 2022 |
+| [UCF CAP5415: Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
+| [UCF CAP6412: Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | | Mubarak Shah | 2022 |
+| [UMich EECS 498.008/598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
+| [University of Rennes Deep Learning for Vision](https://sif-dlv.github.io/) | | Yannis Avrithis | 2020 |
+| [UW CSE 455: The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
+| [WAIC Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/) | [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) | Assaf Shocher | 2021 |
 
 #### for NLP
 | Name | Materials | Author | Year |
@@ -120,7 +127,7 @@
 | AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
 | First Italian School on Geometric Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
-| [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | Tolga Birdal | 2020 |
+| [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
 | [UvA: An Introduction to Group Equivariant Deep Learning](https://uvagedl.github.io/) | [Notes](https://uvagedl.github.io/GroupConvLectureNotes.pdf) \| [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Erik Bekkers | 2022 |
 
 ### Geometric Computing
@@ -186,6 +193,7 @@
 ### DL
 #### Courses
 | Title | Author | Year |
+| ----- | ------ | ---- |
 | [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/) | Pranav Rajpurkar | 2022 |
 
 ### General
