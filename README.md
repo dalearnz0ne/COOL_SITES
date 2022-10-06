@@ -41,12 +41,18 @@
 | [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) | Richard Szeliski | 2022 |
 | [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) | Simon J.D. Prince | 2012 |
 
-### ML/DL
+### ML
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [Intro to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) | Chip Huyen | 2021 |
+| [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Murphy | 2022 |
+| [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Murphy | 2023 |
+
+### DL
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
 | [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
-| [Intro to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) | Chip Huyen | 2021 |
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon J.D. Prince | 2022-23 |
 
 ## Cheat Sheets
