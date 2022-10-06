@@ -57,6 +57,36 @@
 ## Courses
 
 ## Papers
+### CV/ML/DL
+#### Aggregators
+| Name | Author |
+| ---- | ------ |
+| [arxiv sanity lite](https://arxiv-sanity-lite.com/) | Andrej Karpathy |
+| [Bird's-eye views of conference proceedings]() | Tanel Pärnamaa |
+| [Deep Learning Monitor](https://deeplearn.org/) | Raphael Shu |
+| [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/index.html) | Xie et al. |
+| [Recent Papers](https://papers.labml.ai/papers/recent/) | labml.ai |
+| [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) | |
+
+#### Reading Groups
+| Name | Video | Author |
+| ---- | ----- | ------ |
+| [Paper Reading Group](https://wandb.ai/site/paper-reading-group) | [YouTube](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5) | Weights & Biases |
+
+#### Reading Lists
+| Name | Author |
+| ---- | ------ |
+| [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
+
+#### With Code
+| Name | Author |
+| ---- | ------ |
+| [Annotated PyTorch Paper Implementations](https://nn.labml.ai/) | labml.ai |
+
+### Metrics
+| Name | Author |
+| ---- | ------ |
+| [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
 
 ## Projects
 
@@ -64,8 +94,8 @@
 
 ## Tools
 ### CV/DL
-| Name  | Author | Year |
-| ----- | ------ | ---- |
+| Name | Author | Year |
+| ---- | ------ | ---- |
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 
 ## Tutorials
