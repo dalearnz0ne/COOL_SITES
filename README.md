@@ -75,14 +75,23 @@
 #### for 3D
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [CMU 16-824: Visual Learning and Recognition](https://visual-learning.cs.cmu.edu/schedule.html) | | Jun-Yan Zhu | 2022 |
+| [CMU 16-889: Learning for 3D Vision](https://learning3d.github.io/index.html) | | Shubham Tulsiani | 2022 |
+| [ETHZ Deep Learning for Computer Vision: Seminal Work](https://www.cvg.ethz.ch/teaching/dlseminar/) | | Dr. Iro Armeni | 2022 |
+| [MIT Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | | Vincent Sitzmann | 2022 |
+| [Stanford CS348I: Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
+| [UC San Diego Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | | Hao Su | 2022 |
 
 #### for Coders
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [Practical Deep Learning for Coders](https://course.fast.ai/) | [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
+| [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
 
 #### for CV
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [MIT Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
 
 #### for NLP
 | Name | Materials | Author | Year |
@@ -92,8 +101,7 @@
 #### General
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
-| [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/) | [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | 
-Tianqi Chen | 2022 |
+| [CMU 10-414/714: Deep Learning Systems](https://dlsyscourse.org/) | [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
 | [CMU 11-785: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) | Bhiksha Raj | 2022 |
 | [DeepCourse](https://arthurdouillard.com/deepcourse/) | | Arthur Douillard | 2021 |
 | [MIT 6.S898: Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | | Phillip Isola | 2021 |
@@ -103,7 +111,7 @@ Tianqi Chen | 2022 |
 | [UMD CMSC 828W: Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | [Uni Tuebingen Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
 | [UvA Deep Learning Course](https://uvadlc.github.io/) | | Xiantong Zhen | 2021 |
-| [UvA Deep Learning Course](https://uvadl2c.github.io/) | | Efstratios Gavves | 2022 |
+| [UvA Deep Learning II Course](https://uvadl2c.github.io/) | | Efstratios Gavves | 2022 |
 
 ### Geometric DL
 | Name | Materials | Author | Year |
@@ -112,6 +120,7 @@ Tianqi Chen | 2022 |
 | AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
 | First Italian School on Geometric Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
+| [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | Tolga Birdal | 2020 |
 | [UvA: An Introduction to Group Equivariant Deep Learning](https://uvagedl.github.io/) | [Notes](https://uvagedl.github.io/GroupConvLectureNotes.pdf) \| [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Erik Bekkers | 2022 |
 
 ### Geometric Computing
