@@ -91,6 +91,17 @@
 ## Projects
 
 ## Research
+### CV
+#### Advice
+| Title | Author | Year |
+| ----- | ------ | ---- |
+| [How to do research in Computer Vision](http://3dvision.princeton.edu/courses/COS598/2014sp/slides/lecture21_how2research.pdf) | Jianxiong Xiao | 2012 |
+
+### General
+#### Advice
+| Title | Author | Year |
+| ----- | ------ | ---- |
+| [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
 
 ## Tools
 ### CV/DL
