@@ -20,20 +20,38 @@
 
 * **[Tutorials](#tutorials)**
 
-### Blogs
+## Blogs
+### ML/DL
+#### General
+| Title  | Author |
+| ------ | ------ |
+| [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
+| [Distill](https://distill.pub/) | |
+| [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
+| [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
-### Books
+#### Specific Posts
+| Title  | Author |
+| ------ | ------ |
+| [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder |
+| [Binary vs. Multi-Class Logistic Regression](https://chrisyeh96.github.io/2018/06/11/logistic-regression.html) | Chris Yeh |
+| [Normalization in Deep Learning](https://arthurdouillard.com/post/normalization/) | Arthur Douillard |
+| [Optimization in Deep Learning: AdaGrad, RMSProp, ADAM](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/) | Artem Oppermann |
+| [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/) | Leo Gao |
+| [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases |
 
-### Cheat Sheets
+## Books
 
-### Courses
+## Cheat Sheets
 
-### Papers
+## Courses
 
-### Projects
+## Papers
 
-### Research
+## Projects
 
-### Tools
+## Research
 
-### Tutorials
+## Tools
+
+## Tutorials
