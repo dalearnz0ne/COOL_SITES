@@ -62,6 +62,12 @@
 | Before you C++ | [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS2fjnHL1qkyGACJAYNZJtke) | Code for yourself | 2022 |
 | C++ for yourself | [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) | Code for yourself | 2022 |
 
+#### Data Structures & Algorithms
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+| [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | [Videos](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) | Erik Demaine | 2020 |
+| [MIT 6.851: Advanced Data Structures](http://courses.csail.mit.edu/6.851/spring21/) | | Erik Demaine | 2021 |
+
 #### General
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
@@ -70,6 +76,15 @@
 ### CV
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [CMU 16-385: Computer Vision](http://16385.courses.cs.cmu.edu/fall2022/home) | | Matthew O'Toole | 2022 |
+| [CMU 16-623: Advanced Computer Vision Apps](http://16623.courses.cs.cmu.edu/) | | Simon Lucey | 2016 |
+| NUS CS4277/CS5477 3D Computer Vision | [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
+| [Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
+| [TUM Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
+| [UMich EECS 442/504: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) | | Justin Johnson | 2021 |
+| [UMich EECS 442/504: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | | Andrew Owens | 2022 |
+| [Uni Tuebingen Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
+| [Uni Tuebingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
 
 ### DL
 #### for 3D
@@ -92,7 +107,7 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [MIT Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
-| [Stanford CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | [Notes](https://cs231n.github.io/) \| [YouTube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | Fei-Fei Li | 2022 |
+| [Stanford CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | [Notes](https://cs231n.github.io/) \| [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Fei-Fei Li | 2022 |
 | [UCF CAP5415: Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
 | [UCF CAP6412: Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | | Mubarak Shah | 2022 |
 | [UMich EECS 498.008/598.008: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
