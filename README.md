@@ -55,6 +55,59 @@
 | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 
 ## Courses
+### Coding
+#### C++
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+| Before you C++ | [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS2fjnHL1qkyGACJAYNZJtke) | Code for yourself | 2022 |
+| C++ for yourself | [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) | Code for yourself | 2022 |
+
+#### General
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+| [Missing Semester](https://missing.csail.mit.edu/) | [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
+
+### CV
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+### DL
+#### for 3D
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+#### for CV
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+#### for NLP
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+#### General
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+#### Theory
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+### Geometric DL
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+### Geometric Computing
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+
+### ML
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
+| [CS 189/289A Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
+
+### MLOps
+| Name | Materials | Author | Year |
+| ---- | --------- | ------ | ---- |
 
 ## Papers
 ### CV/ML/DL
