@@ -49,6 +49,10 @@
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon J.D. Prince | 2022-23 |
 
 ## Cheat Sheets
+### ML/DL
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 
 ## Courses
 
