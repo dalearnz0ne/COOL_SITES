@@ -83,22 +83,28 @@
 #### for NLP
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [Stanford CS 224N Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
 
 #### General
-| Name | Materials | Author | Year |
-| ---- | --------- | ------ | ---- |
-
-#### Theory
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 
 ### Geometric DL
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
+| AMMI Geometric Deep Learning Course | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
+| First Italian School on Geometric Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
+| Group Equivariant Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Erik Bekkers | 2022 |
+| [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 
 ### Geometric Computing
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| 6.837 Introduction to Computer Graphics | [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
+| [6.838 Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
+| [CMU 15-462/662 Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
+| [CMU 15-458/858 Discrete Differential Geometry](https://brickisland.net/DDGSpring2022/) | [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) \| [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) | Keenan Crane | 2022 |
 
 ### ML
 | Name | Materials | Author | Year |
@@ -108,6 +114,8 @@
 ### MLOps
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
+| [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
+| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
 
 ## Papers
 ### CV/ML/DL
@@ -163,6 +171,11 @@
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 
 ## Tutorials
+### DL
+| Title  | Video | Conference | Year |
+| ------ | ----- | ---------- | ---- |
+| [DeepMath](https://deepmath-conference.com/) | [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
+
 ### CV/DL
 | Title  | Video | Conference | Year |
 | ------ | ----- | ---------- | ---- |
