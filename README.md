@@ -56,6 +56,21 @@
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon J.D. Prince | 2022-23 |
 
 ## Cheat Sheets
+### Coding
+#### C++
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [C++ Quick Reference](https://github.com/utkuufuk/cpp-quick-reference) | Utku Ufuk | 2019 |
+| [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/) | Steven Basart | 2022 |
+
+#### Python
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/) | Louie Dinh | 2022 |
+| [Python Cheat Sheet](https://github.com/AbdulMalikDev/PythonCheatSheet) | Abdul Malik | 2022 |
+| [Python CP Cheatsheet](https://github.com/peterlamar/python-cp-cheatsheet) | Peter Lamar | 2022 |
+| [Python Leetcode](https://github.com/shiwentao00/Python-leetcode) | Wentao Shi | 2022 |
+
 ### ML/DL
 | Title  | Author | Year |
 | ------ | ------ | ---- |
