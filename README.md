@@ -2,23 +2,16 @@
 
 ## Table of Contents
 
-* **[Blogs](#blogs)**
-
-* **[Books](#books)**
-
-* **[Cheat Sheets](#cheat-sheets)**
-
-* **[Courses](#courses)**
-
-* **[Papers](#papers)**
-
-* **[Projects](#projects)**
-
-* **[Research](#research)**
-
-* **[Tools](#tools)**
-
-* **[Tutorials](#tutorials)**
+| **[Blogs](#blogs)**
+| **[Books](#books)**
+| **[Cheat Sheets](#cheat-sheets)**
+| **[Courses](#courses)**
+| **[Papers](#papers)**
+| **[Projects](#projects)**
+| **[Research](#research)**
+| **[Tools](#tools)**
+| **[Tutorials](#tutorials)**
+|
 
 ## Blogs
 ### ML/DL
