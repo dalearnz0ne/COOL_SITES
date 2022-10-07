@@ -2,7 +2,7 @@
 An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful). Exceptional content is indicated with ⭐.
 
 # Table of Contents
-| <h4 align="center"></h4> | <h4 align="center"></h4> |
+| <h4 align="center">(╯°□°）╯</h4> | <h4 align="center">︵ ┻━┻</h4> |
 | :-------: | :-------: |
 | **[Blogs](#blogs)** | **[Books](#books)** |
 | **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** |
