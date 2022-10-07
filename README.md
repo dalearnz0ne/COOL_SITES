@@ -381,6 +381,7 @@
 
 | Name | Author | Year |
 | ---- | ------ | ---- |
+| [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | Haris Iqbal | 2020 |
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 </details>
 
