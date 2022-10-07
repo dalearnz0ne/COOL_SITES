@@ -25,6 +25,11 @@
 | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
 | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
+#### Geometric DL
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [GDL BLogs](https://geometricdeeplearning.com/blogs/) | Michael Bronstein | 2021-22 |
+
 #### Neural Fields
 | Title  | Author | Year |
 | ------ | ------ | ---- |
@@ -187,8 +192,8 @@
 ### Geometric DL
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
-| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
-| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
+| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | [proto-book](https://arxiv.org/abs/2104.13478) \| [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
+| [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | [proto-book](https://arxiv.org/abs/2104.13478) \| [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
 | First Italian School on Geometric Deep Learning | [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 | [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
