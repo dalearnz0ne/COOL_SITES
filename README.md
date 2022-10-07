@@ -248,6 +248,16 @@
 | [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) | Dan Turkel |
 | [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
 
+#### Surveys
+| Title | Author | Year |
+| ----- | ------ | ---- |
+| [3D Vision with Transformers: A Survey](https://arxiv.org/abs/2208.04309) | Jean Lahoud | 2022 |
+| [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232) | Chaoqi Chen | 2022 |
+| [A survey on the current state of the art on deep learning 3D reconstruction](https://ieeexplore.ieee.org/document/9733639) | Bogdan Maxim | 2021 |
+| [A Survey on Transformers for Point Cloud Processing: An Updated Overview](https://ieeexplore.ieee.org/document/9857927) | Jiahao Zeng | 2022 |
+| [Deep learning for monocular depth estimation: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925231220320014) | Yue Ming | 2021 |
+| [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747) | Florinel-Alin Croitoru | 2022 |
+
 #### With Code
 | Name | Author |
 | ---- | ------ |
