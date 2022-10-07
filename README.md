@@ -18,7 +18,9 @@
 |
 
 ## Blogs
-### CV/ML/DL
+### | Computer Vision | Machine Learning | Deep Learning |
+<details>
+
 #### Academic
 | Name  | Author |
 | ------ | ------ |
@@ -60,38 +62,53 @@
 | [Optimization in Deep Learning: AdaGrad, RMSProp, ADAM](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/) | Artem Oppermann | 2021 |
 | [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/) | Leo Gao | 2019 |
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
+</details>
 
 ## Books
-### Coding
+### | Coding |
+<details>
+
 #### C++
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup | 2022 |
+</details>
 
-### CV
+### | Computer Vision |
+<details>
+
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) | Richard Szeliski | 2022 |
 | [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) \| [draft](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | Simon J.D. Prince | 2012 |
+</details>
 
-### ML
+### | Machine Learning |
+<details>
+
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) | Mihail Eric | 2020 |
 | [Intro to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) | Chip Huyen | 2021 |
 | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) \| [draft](https://github.com/probml/pml-book/releases/latest) | Kevin Murphy | 2022 |
 | [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) \| [draft](https://github.com/probml/pml2-book/releases/latest) | Kevin Murphy | 2023 |
+</details>
 
-### DL
+### | Deep Learning |
+<details>
+
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
 | [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
 | [The Principles of Deep Learning Theory](https://deeplearningtheory.com/) \| [draft](https://arxiv.org/abs/2106.10165) | Daniel A. Roberts | 2022 |
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
+</details>
 
 ## Cheat Sheets
-### Coding
+### | Coding |
+<details>
+
 #### C++
 | Title  | Author | Year |
 | ------ | ------ | ---- |
@@ -107,14 +124,20 @@
 | [Python Cheat Sheet](https://github.com/AbdulMalikDev/PythonCheatSheet) | Abdul Malik | 2022 |
 | [Python CP Cheatsheet](https://github.com/peterlamar/python-cp-cheatsheet) | Peter Lamar | 2022 |
 | [Python Leetcode](https://github.com/shiwentao00/Python-leetcode) | Wentao Shi | 2022 |
+</details>
 
-### ML/DL
+### | Machine Learning | Deep Learning |
+<details>
+
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
+</details>
 
 ## Courses
-### Coding
+### | Coding |
+<details>
+
 #### C++
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
@@ -131,8 +154,11 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Missing Semester](https://missing.csail.mit.edu/) | [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
+</details>
 
-### CV
+### | Computer Vision |
+<details>
+
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [CMU 16-385: Computer Vision](http://16385.courses.cs.cmu.edu/fall2022/home) | | Matthew O'Toole | 2022 |
@@ -144,8 +170,11 @@
 | [UMich EECS 442/504: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | | Andrew Owens | 2022 |
 | [Uni Tuebingen Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [Notes](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view) \| [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
 | [Uni Tuebingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
+</details>
 
-### DL
+### | Deep Learning |
+<details>
+
 #### for 3D
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
@@ -201,8 +230,11 @@
 | [NYU MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | | Joan Bruna | 2018|
 | [NYU MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | | Joan Bruna | 2019|
 | [Uni Tuebingen Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
+</details>
 
-### Geometric DL
+### | Geometric Deep Learning |
+<details>
+
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [AMMI Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | [proto-book](https://arxiv.org/abs/2104.13478) \| [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
@@ -211,32 +243,44 @@
 | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 | [Standford CS468: Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
 | [UvA: An Introduction to Group Equivariant Deep Learning](https://uvagedl.github.io/) | [Notes](https://uvagedl.github.io/GroupConvLectureNotes.pdf) \| [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Erik Bekkers | 2022 |
+</details>
 
-### Geometric Computing
+### | Geometric Computing |
+<details>
+
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
 | [CMU 15-458/858: Discrete Differential Geometry](https://brickisland.net/DDGSpring2022/) | [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) \| [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) | Keenan Crane | 2022 |
 | MIT 6.837: Introduction to Computer Graphics | [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
 | [MIT 6.838: Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
+</details>
 
-### ML
+### | Machine Learning |
+<details>
+
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Berkeley CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
 | [Machine Learning University](https://mlu-explain.github.io/) | Jared Wilber | 2021-22 |
+</details>
 
-### MLOps
+### | MLOps |
+<details>
+
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
 | Operationalizing Machine Learning: An Interview Study | [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 | [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
+</details>
 
 ## Datasets
 
 ## Newsletters
-### ML/DL
+### | Machine Learning | Deep Learning |
+<details>
+
 | Name | Author |
 | ---- | ------ |
 | [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
@@ -244,9 +288,12 @@
 | [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
 | [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI |
 | [The Gradient](https://thegradient.pub/) | |
+</details>
 
 ## Papers
-### CV/ML/DL
+### | Computer Vision | Machine Learning | Deep Learning |
+<details>
+
 #### Aggregators
 | Name | Author |
 | ---- | ------ |
@@ -285,22 +332,31 @@
 | Name | Author |
 | ---- | ------ |
 | [Annotated PyTorch Paper Implementations](https://nn.labml.ai/) | labml.ai |
+</details>
 
-### Metrics
+### | Metrics |
+<details>
+
 | Name | Author |
 | ---- | ------ |
 | [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
+</details>
 
 ## Projects
 
 ## Research
-### CV
+### | Computer Vision |
+<details>
+
 #### Advice
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [How to do research in Computer Vision](http://3dvision.princeton.edu/courses/COS598/2014sp/slides/lecture21_how2research.pdf) | Jianxiong Xiao | 2012 |
+</details>
 
-### ML/DL
+### | Machine Learning | Deep Learning |
+<details>
+
 #### Advice
 | Title | Author | Year |
 | ----- | ------ | ---- |
@@ -310,37 +366,53 @@
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/) | Pranav Rajpurkar | 2022 |
+</details>
 
-### General
+### | General |
+<details>
+
 #### Advice
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
+</details>
 
 ## Software
 
 ## Tools
-### CV/DL
+### | Computer Vision | Deep Learning |
+<details>
+
 | Name | Author | Year |
 | ---- | ------ | ---- |
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
+</details>
 
 ## Tutorials
-### DL
+### | Deep Learning |
+<details>
+
 | Title  | Video | Conference | Year |
 | ------ | ----- | ---------- | ---- |
 | [DeepMath](https://deepmath-conference.com/) | [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
+</details>
 
-### CV/DL
+### | Computer Vision | Deep Learning |
+<details>
+
 | Title  | Video | Conference | Year |
 | ------ | ----- | ---------- | ---- |
 | [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
+</details>
 
 ## Xtras
-### DL
+### | Deep Learning |
+<details>
+
 | Name | Author |
 | ---- | ------ |
 | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | Mario |
 | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Alex Bailo |
+</details>
