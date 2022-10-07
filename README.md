@@ -1,23 +1,10 @@
 # COOL_SITES ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-## Table of Contents
+# Table of Contents
 
-| **[Blogs](#blogs)**
-| **[Books](#books)**
-| **[Cheat Sheets](#cheat-sheets)**
-| **[Courses](#courses)**
-| **[Datasets](#datasets)**
-| **[Newsletters](#newsletters)**
-| **[Papers](#papers)**
-| **[Projects](#projects)**
-| **[Research](#research)**
-| **[Software](#software)**
-| **[Tools](#tools)**
-| **[Tutorials](#tutorials)**
-| **[Xtras](#xtras)**
-|
+## | **[Blogs](#blogs)** | **[Books](#books)** | **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** | **[Datasets](#datasets)** | **[Newsletters](#newsletters)** | **[Papers](#papers)** | **[Projects](#projects)** | **[Research](#research)** | **[Software](#software)** | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
 
-## Blogs
+# Blogs
 ### | Computer Vision | Machine Learning | Deep Learning |
 <details>
 
@@ -64,7 +51,7 @@
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
 </details>
 
-## Books
+# Books
 ### | Coding |
 <details>
 
@@ -105,7 +92,7 @@
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
 </details>
 
-## Cheat Sheets
+# Cheat Sheets
 ### | Coding |
 <details>
 
@@ -134,7 +121,7 @@
 | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 </details>
 
-## Courses
+# Courses
 ### | Coding |
 <details>
 
@@ -275,9 +262,9 @@
 | [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
 </details>
 
-## Datasets
+# Datasets
 
-## Newsletters
+# Newsletters
 ### | Machine Learning | Deep Learning |
 <details>
 
@@ -290,7 +277,7 @@
 | [The Gradient](https://thegradient.pub/) | |
 </details>
 
-## Papers
+# Papers
 ### | Computer Vision | Machine Learning | Deep Learning |
 <details>
 
@@ -342,9 +329,9 @@
 | [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
 </details>
 
-## Projects
+# Projects
 
-## Research
+# Research
 ### | Computer Vision |
 <details>
 
@@ -377,9 +364,9 @@
 | [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
 </details>
 
-## Software
+# Software
 
-## Tools
+# Tools
 ### | Computer Vision | Deep Learning |
 <details>
 
@@ -388,7 +375,7 @@
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 </details>
 
-## Tutorials
+# Tutorials
 ### | Deep Learning |
 <details>
 
@@ -407,7 +394,7 @@
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
 </details>
 
-## Xtras
+# Xtras
 ### | Deep Learning |
 <details>
 
