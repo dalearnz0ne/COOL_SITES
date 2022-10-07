@@ -36,6 +36,12 @@
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
 
 ## Books
+### Coding
+#### C++
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup | 2022 |
+
 ### CV
 | Title  | Author | Year |
 | ------ | ------ | ---- |
@@ -63,6 +69,8 @@
 | ------ | ------ | ---- |
 | [C++ Quick Reference](https://github.com/utkuufuk/cpp-quick-reference) | Utku Ufuk | 2019 |
 | [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/) | Steven Basart | 2022 |
+| [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra | 2022 |
+| [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | 2022 |
 
 #### Python
 | Title  | Author | Year |
