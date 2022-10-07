@@ -1,5 +1,5 @@
 # COOL_SITES ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful).
+An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful). Exceptional content is indicated with ⭐.
 
 # Table of Contents
 | ————————— | ————————— |
@@ -137,6 +137,8 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Courses
+Almost every course has slides available. Lecture videos are indicated with 🎞 and notes are indicated with 📝.
+
 ### | Coding |
 <details>
 
@@ -168,8 +170,8 @@ An awesome collection of resources for coding, computer vision, machine learning
 | NUS CS4277/CS5477 | [3D Computer Vision](https://nusmods.com/modules/CS5477/3-d-computer-vision) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
 | Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
 | TUM | [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
-| UMich EECS 442/504 | [Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) | | Justin Johnson | 2021 |
-| UMich EECS 442/504 | [Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | | Andrew Owens | 2022 |
+| UMich EECS442/504 | [Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) | | Justin Johnson | 2021 |
+| UMich EECS442/504 | [Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | | Andrew Owens | 2022 |
 | Uni Tuebingen | [Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | 📝 [Notes](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
 | Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
 </details>
@@ -196,10 +198,10 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | MIT 6.S869 | [Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
-| Stanford CS231n | [Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | 📝 [Notes](https://cs231n.github.io/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Fei-Fei Li | 2022 |
+| Stanford CS231N | [Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | 📝 [Notes](https://cs231n.github.io/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Fei-Fei Li | 2022 |
 | UCF CAP5415 | [Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
 | UCF CAP6412 | [Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | 🎞️ YouTube | Mubarak Shah | 2022 |
-| UMich EECS 498.008/598.008 | [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
+| UMich EECS498.008/598.008 | [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
 | University of Rennes | [Deep Learning for Vision](https://sif-dlv.github.io/) | | Yannis Avrithis | 2020 |
 | UW CSE 455 | [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
 | WAIC | [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) | Assaf Shocher | 2021 |
@@ -207,22 +209,22 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### for NLP
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| Stanford CS 224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
+| Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
 
 #### General
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
-| CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
-| | [DeepCourse](https://arthurdouillard.com/deepcourse/) | | Arthur Douillard | 2021 |
-| MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | | Phillip Isola | 2021 |
-| MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 📝 Notes | Phillip Isola | 2022 |
-| | Neural Networks: Zero to Hero | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Andrej Karpathy | 2022 |
-| Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
-| UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
-| Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
-| UvA | [Deep Learning Course](https://uvadlc.github.io/lectures-nov2020.html) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) | Efstratios Gavves | 2020 |
-| UvA | [Deep Learning II Course](https://uvadl2c.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) \| 📝 [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) | Efstratios Gavves | 2022 |
+| | ID | Name | Materials | Author | Year |
+|-| -- | ---- | --------- | ------ | ---- |
+| | | [DeepCourse](https://arthurdouillard.com/deepcourse/) | | Arthur Douillard | 2021 |
+| | | Neural Networks: Zero to Hero | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Andrej Karpathy | 2022 |
+| | CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
+| | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
+| | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | | Phillip Isola | 2021 |
+| | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 📝 Notes | Phillip Isola | 2022 |
+| | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
+| | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
+| | Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
+| ⭐ | UvA | [Deep Learning Course](https://uvadlc.github.io/lectures-nov2020.html) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) | Efstratios Gavves | 2020-21|
+| ⭐ | UvA | [Deep Learning II Course](https://uvadl2c.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) \| 📝 [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) | Efstratios Gavves | 2022 |
 
 #### Theory
 | ID | Name | Materials | Author | Year |
@@ -240,9 +242,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | -- | ---- | --------- | ------ | ---- |
 | AMMI | [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | 📖 [proto-book](https://arxiv.org/abs/2104.13478) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
 | AMMI | [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | 📖 [proto-book](https://arxiv.org/abs/2104.13478) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
-| Uni Ch | [First Italian School on Geometric Deep Learning](https://www.sci.unich.it/geodeep2022/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | Stanford CS224W | [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
-| Standford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
+| Stanford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | | Tolga Birdal | 2020 |
+| Uni Ch | [First Italian School on Geometric Deep Learning](https://www.sci.unich.it/geodeep2022/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | UvA | [An Introduction to Group Equivariant Deep Learning](https://uvagedl.github.io/) | 📝 [Notes](https://uvagedl.github.io/GroupConvLectureNotes.pdf) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Erik Bekkers | 2022 |
 </details>
 
@@ -262,8 +264,8 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| Berkeley CS 189/289A | [Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | 📝 [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
 | | [Machine Learning University](https://mlu-explain.github.io/) | | Jared Wilber | 2021-22 |
+| Berkeley CS189/289A | [Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | 📝 [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
 </details>
 
 ### | MLOps |
@@ -273,7 +275,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | -- | ---- | --------- | ------ | ---- |
 | | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | 🎞️ [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
 | arXiv | Operationalizing Machine Learning: An Interview Study | 📖 [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
-| Stanford CS 329S | [Machine Learning Systems Design](https://stanford-cs329s.github.io/) | 📝 Notes \| 🎞️ [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
+| Stanford CS329S | [Machine Learning Systems Design](https://stanford-cs329s.github.io/) | 📝 Notes \| 🎞️ [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
 </details>
 
 # Datasets
