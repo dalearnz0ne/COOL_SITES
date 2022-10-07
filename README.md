@@ -188,6 +188,8 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Categories for AI](https://cats.for.ai/) | YouTube | Andrew Dudzik | 2022 |
+| [NYU MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | | Joan Bruna | 2018|
+| [NYU MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | | Joan Bruna | 2019|
 | [Uni Tuebingen Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
 
 ### Geometric DL
@@ -239,6 +241,7 @@
 | [Deep Learning Monitor](https://deeplearn.org/) | Raphael Shu |
 | [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/index.html) | Xie et al. |
 | [Recent Papers](https://papers.labml.ai/papers/recent/) | labml.ai |
+| [Trending Research](https://paperswithcode.com/) | Papers with Code |
 | [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) | |
 
 #### Reading Groups
@@ -324,3 +327,4 @@
 | Name | Author |
 | ---- | ------ |
 | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | Mario |
+| [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Alex Bailo |
