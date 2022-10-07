@@ -1,8 +1,12 @@
 # COOL_SITES ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 # Table of Contents
-
-## | **[Blogs](#blogs)** | **[Books](#books)** | **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** | **[Datasets](#datasets)** | **[Newsletters](#newsletters)** | **[Papers](#papers)** | **[Projects](#projects)** | **[Research](#research)** | **[Software](#software)** | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
+| ————————— | ————————— | ————————— | ————————— |
+| :-------: | :-------: | :-------: | :-------: |
+| **[Blogs](#blogs)** | **[Books](#books)** | **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** |
+| **[Datasets](#datasets)** | **[Newsletters](#newsletters)** | **[Papers](#papers)** | **[Projects](#projects)** |
+| **[Research](#research)** | **[Software](#software)** | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
+| **—————————** | **—————————** | **—————————** | **—————————** |
 
 # Blogs
 ### | Computer Vision | Machine Learning | Deep Learning |
@@ -10,7 +14,7 @@
 
 #### Academic
 | Name  | Author |
-| ------ | ------ |
+| ----- | ------ |
 | [Blog](https://www.robots.ox.ac.uk/~vgg/blog/) | Oxford Visual Geometry Group |
 | [The BAIR Blog](https://bair.berkeley.edu/blog/) | Berkeley Artificial Intelligence Research |
 
@@ -18,7 +22,7 @@
 
 #### General
 | Name  | Author |
-| ------ | ------ |
+| ----- | ------ |
 | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | [Distill](https://distill.pub/) | |
 | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
@@ -26,7 +30,7 @@
 
 #### Geometric DL
 | Name  | Author | Year |
-| ------ | ------ | ---- |
+| ----- | ------ | ---- |
 | [GDL BLogs](https://geometricdeeplearning.com/blogs/) | Michael Bronstein | 2021-22 |
 
 #### Neural Fields
