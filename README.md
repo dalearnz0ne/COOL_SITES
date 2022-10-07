@@ -220,6 +220,7 @@ Almost every course has slides available. Lecture videos are indicated with 🎞
 | | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | | Phillip Isola | 2021 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 📝 Notes | Phillip Isola | 2022 |
+| | NYU DS-GA1008 | [Deep Learning](https://cds.nyu.edu/deep-learning/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | Yann LeCun | 2021 |
 | | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
 | | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | | Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
