@@ -429,6 +429,27 @@ Almost every course has slides available. Lecture videos are indicated with 🎞
 </details>
 
 # Xtras
+### | Awesome Repos |
+<details>
+
+<!-- #### | Coding |
+| Name | Author |
+| ---- | ------ | -->
+
+#### | Computer Vision | Machine Learning | Deep Learning |
+##### General
+| Name | Author |
+| ---- | ------ |
+| [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang |
+| [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
+
+##### Neural Fields
+| Name | Author |
+| ---- | ------ |
+| [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF) | Yen-Chen Lin |
+| [Awesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | NeurReps |
+</details>
+
 ### | Deep Learning |
 <details>
 
