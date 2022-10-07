@@ -270,6 +270,14 @@
 </details>
 
 # Datasets
+### | Computer Vision | Machine Learning | Deep Learning |
+<details>
+
+| Name | Author |
+| ---- | ------ |
+| [Datasets](https://paperswithcode.com/datasets) | Papers with Code |
+| [VisualData Discovery](https://visualdata.io/discovery) | |
+</details>
 
 # Newsletters
 ### | Machine Learning | Deep Learning |
