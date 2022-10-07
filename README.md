@@ -6,10 +6,12 @@
 | **[Books](#books)**
 | **[Cheat Sheets](#cheat-sheets)**
 | **[Courses](#courses)**
+| **[Datasets](#datasets)**
 | **[Newsletters](#newsletters)**
 | **[Papers](#papers)**
 | **[Projects](#projects)**
 | **[Research](#research)**
+| **[Software](#software)**
 | **[Tools](#tools)**
 | **[Tutorials](#tutorials)**
 | **[Xtras](#xtras)**
@@ -17,8 +19,16 @@
 
 ## Blogs
 ### CV/ML/DL
+#### Academic
+| Name  | Author |
+| ------ | ------ |
+| [Blog](https://www.robots.ox.ac.uk/~vgg/blog/) | Oxford Visual Geometry Group |
+| [The BAIR Blog](https://bair.berkeley.edu/blog/) | Berkeley Artificial Intelligence Research |
+
+#### Corporate
+
 #### General
-| Title  | Author |
+| Name  | Author |
 | ------ | ------ |
 | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | [Distill](https://distill.pub/) | |
@@ -26,7 +36,7 @@
 | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
 #### Geometric DL
-| Title  | Author | Year |
+| Name  | Author | Year |
 | ------ | ------ | ---- |
 | [GDL BLogs](https://geometricdeeplearning.com/blogs/) | Michael Bronstein | 2021-22 |
 
@@ -223,6 +233,8 @@
 | Operationalizing Machine Learning: An Interview Study | [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 | [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
 
+## Datasets
+
 ## Newsletters
 ### ML/DL
 | Name | Author |
@@ -230,6 +242,8 @@
 | [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
 | [Import AI](https://jack-clark.net/) | Jack Clark |
 | [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
+| [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI |
+| [The Gradient](https://thegradient.pub/) | |
 
 ## Papers
 ### CV/ML/DL
@@ -302,6 +316,8 @@
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
+
+## Software
 
 ## Tools
 ### CV/DL
