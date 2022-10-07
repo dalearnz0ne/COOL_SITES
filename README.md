@@ -2,7 +2,7 @@
 An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful). Exceptional content is indicated with ⭐.
 
 # Table of Contents
-| ————————— | ————————— |
+|  ——— |  ——— |
 | :-------: | :-------: |
 | **[Blogs](#blogs)** | **[Books](#books)** |
 | **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** |
@@ -10,7 +10,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | **[Papers](#papers)** | **[Projects](#projects)** |
 | **[Research](#research)** | **[Software](#software)** |
 | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
-| **—————————** | **—————————** |
+| **———** | **———** |
 
 # Blogs
 ### | Computer Vision | Machine Learning | Deep Learning |
