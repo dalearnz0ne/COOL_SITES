@@ -42,6 +42,7 @@
 #### Specific Posts
 | Title  | Author | Year |
 | ------ | ------ | ---- |
+| [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) | Andrej Karpathy | 2019 |
 | [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder | 2016 |
 | [Binary vs. Multi-Class Logistic Regression](https://chrisyeh96.github.io/2018/06/11/logistic-regression.html) | Chris Yeh | 2018 |
 | [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) | Horace He | 2022 |
