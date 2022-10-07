@@ -39,6 +39,7 @@
 | ------ | ------ | ---- |
 | [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder | 2016 |
 | [Binary vs. Multi-Class Logistic Regression](https://chrisyeh96.github.io/2018/06/11/logistic-regression.html) | Chris Yeh | 2018 |
+| [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) | Horace He | 2022 |
 | [Normalization in Deep Learning](https://arthurdouillard.com/post/normalization/) | Arthur Douillard | 2018 |
 | [Optimization in Deep Learning: AdaGrad, RMSProp, ADAM](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/) | Artem Oppermann | 2021 |
 | [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/) | Leo Gao | 2019 |
@@ -55,21 +56,23 @@
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) | Richard Szeliski | 2022 |
-| [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) | Simon J.D. Prince | 2012 |
+| [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) \| [draft](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | Simon J.D. Prince | 2012 |
 
 ### ML
 | Title  | Author | Year |
 | ------ | ------ | ---- |
+| [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) | Mihail Eric | 2020 |
 | [Intro to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/) | Chip Huyen | 2021 |
-| [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Murphy | 2022 |
-| [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Murphy | 2023 |
+| [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) \| [draft](https://github.com/probml/pml-book/releases/latest) | Kevin Murphy | 2022 |
+| [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) \| [draft](https://github.com/probml/pml2-book/releases/latest) | Kevin Murphy | 2023 |
 
 ### DL
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
 | [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
-| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon J.D. Prince | 2022-23 |
+| [The Principles of Deep Learning Theory](https://deeplearningtheory.com/) \| [draft](https://arxiv.org/abs/2106.10165) | Daniel A. Roberts | 2022 |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
 
 ## Cheat Sheets
 ### Coding
@@ -123,7 +126,7 @@
 | [TUM Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
 | [UMich EECS 442/504: Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) | | Justin Johnson | 2021 |
 | [UMich EECS 442/504: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | | Andrew Owens | 2022 |
-| [Uni Tuebingen Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
+| [Uni Tuebingen Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [Notes](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view) \| [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
 | [Uni Tuebingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
 
 ### DL
@@ -179,6 +182,7 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Categories for AI](https://cats.for.ai/) | YouTube | Andrew Dudzik | 2022 |
+| [Uni Tuebingen Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
 
 ### Geometric DL
 | Name | Materials | Author | Year |
@@ -202,11 +206,13 @@
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Berkeley CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
+| [Machine Learning University](https://mlu-explain.github.io/) | Jared Wilber | 2021-22 |
 
 ### MLOps
 | Name | Materials | Author | Year |
 | ---- | --------- | ------ | ---- |
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
+| Operationalizing Machine Learning: An Interview Study | [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 | [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/) | [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
 
 ## Newsletters
@@ -261,7 +267,12 @@
 | ----- | ------ | ---- |
 | [How to do research in Computer Vision](http://3dvision.princeton.edu/courses/COS598/2014sp/slides/lecture21_how2research.pdf) | Jianxiong Xiao | 2012 |
 
-### DL
+### ML/DL
+#### Advice
+| Title | Author | Year |
+| ----- | ------ | ---- |
+| [How to ML Paper - A Brief Guide](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit) | Jakob Foerster | 2022 |
+
 #### Courses
 | Title | Author | Year |
 | ----- | ------ | ---- |
