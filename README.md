@@ -22,6 +22,12 @@
 | [The BAIR Blog](https://bair.berkeley.edu/blog/) | Berkeley Artificial Intelligence Research |
 
 #### Corporate
+| Name  | Author |
+| ----- | ------ |
+| [Blog](https://www.deepmind.com/blog) | DeepMind |
+| [Google AI Blog](https://ai.googleblog.com/) | Google Research |
+| [Latest News](https://www.nvidia.com/en-us/research/news/) | NVIDIA Research |
+| [OpenAI Blog](https://openai.com/blog/) | OpenAI |
 
 #### General
 | Name  | Author |
@@ -29,6 +35,7 @@
 | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | [Distill](https://distill.pub/) | |
 | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
+| [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
 | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
 #### Geometric DL
