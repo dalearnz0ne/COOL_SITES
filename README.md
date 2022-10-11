@@ -247,7 +247,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### Theory
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| | [Categories for AI](https://cats.for.ai/) | 🎞️ YouTube | Andrew Dudzik | 2022 |
+| | [Categories for AI](https://cats.for.ai/) | 🎞️ [YouTube](https://www.youtube.com/user/pimdehaan1/videos) | Andrew Dudzik | 2022 |
 | Uni Tuebingen | [Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | 🛝 Slides | Joan Bruna | 2018|
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
