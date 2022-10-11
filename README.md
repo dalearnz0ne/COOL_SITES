@@ -73,6 +73,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Title  | Author | Year |
 | ------ | ------ | ---- |
 | [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup | 2022 |
+| [Learn C++](https://www.learncpp.com/) | Alex Pomeranz | 2022 |
 </details>
 
 ### | Computer Vision |
@@ -148,6 +149,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ---- | --------- | ------ | ---- |
 | Before you C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS2fjnHL1qkyGACJAYNZJtke) | Code for yourself | 2022 |
 | C++ for yourself | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) | Code for yourself | 2022 |
+| C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | The Cherno | 2022 |
 
 #### Data Structures & Algorithms
 | ID | Name | Materials | Author | Year |
