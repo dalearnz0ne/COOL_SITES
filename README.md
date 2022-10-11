@@ -201,9 +201,10 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | UCF CAP6412 | [Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | 🛝 Slides \| 🎞️ YouTube | Mubarak Shah | 2022 |
-| TUM | [Advanced Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/adl4cv-ss20/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39) | Matthias Niessner | 2020 |
+| TUM IN2389 | [Advanced Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/adl4cv-ws21/) | 🛝 [Slides (2020)](https://dvl.in.tum.de/slides/adl4cv-ss20/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLog3nOPCjKBl8s3Ia4ZtmOEniuYM3pVGQ) | Laura Leal-Taixé | 2021 |
 | MIT 6.S869 | [Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
 | UCF CAP5415 | [Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
+| TUM IN2375 | [Computer Vision III: Detection, Segmentation, and Tracking](https://dvl.in.tum.de/teaching/cv3dst-ss22/) | [🛝 Slides](https://dvl.in.tum.de/slides/cv3dst-ss22/) \| 🎞️ [YouTube (2021)](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb) | Laura Leal-Taixé | 2022 |
 | Stanford CS231N | [Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | 🛝 Slides \| 📝 [Notes](https://cs231n.github.io/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Fei-Fei Li | 2022 |
 | UMich EECS498/598 | [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
 | WAIC | [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) | Assaf Shocher | 2021 |
@@ -228,14 +229,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
 | | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 🛝 Slides \| 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
-| | TUM | [Introduction to Deep Learning](https://niessner.github.io/I2DL/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | Matthias Niessner | 2020 |
+| | TUM IN2346| [Introduction to Deep Learning](https://dvl.in.tum.de/teaching/i2dl-ss22/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | Laura Leal-Taixé | 2022 |
   
 #### General - Advanced Topics
 | | ID | Name | Materials | Author | Year |
 |-| -- | ---- | --------- | ------ | ---- |
 | ⭐ | UvA | [Deep Learning II](https://uvadl2c.github.io/) | 🛝 Slides \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Efstratios Gavves | 2022 |
+| | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
 | | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
+| | TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
 | | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
 
 #### Theory
