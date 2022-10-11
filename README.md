@@ -38,7 +38,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
 | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
-#### Geometric DL
+#### Geometric Deep Learning
 | Name  | Author | Year |
 | ----- | ------ | ---- |
 | [GDL BLogs](https://geometricdeeplearning.com/blogs/) | Michael Bronstein | 2021-22 |
@@ -197,7 +197,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
 | University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
 
-#### for CV
+#### for Computer Vision
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | UCF CAP6412 | [Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | 🛝 Slides \| 🎞️ YouTube | Mubarak Shah | 2022 |
@@ -210,7 +210,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | University of Rennes | [Deep Learning for Vision](https://sif-dlv.github.io/) | 🛝 Slides | Yannis Avrithis | 2020 |
 | UW CSE 455 | [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
 
-#### for NLP
+#### for Natural Language Processing
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
