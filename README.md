@@ -169,55 +169,52 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### | Computer Vision |
 <details>
 
+#### General
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| NUS CS4277/CS5477 | [3D Computer Vision](https://nusmods.com/modules/CS5477/3-d-computer-vision) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
-| CMU 16-623 | [Advanced Computer Vision Apps](http://16623.courses.cs.cmu.edu/) | 🛝 Slides | Simon Lucey | 2016 |
 | CMU 16-385 | [Computer Vision](http://16385.courses.cs.cmu.edu/fall2022/home) | 🛝 Slides | Matthew O'Toole | 2022 |
+| UCF CAP5415 | [Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
 | UMich EECS442/504 | [Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/) | 🛝 Slides | Justin Johnson | 2021 |
 | UMich EECS442/504 | [Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa22/) | 🛝 Slides | Andrew Owens | 2022 |
 | Uni Tuebingen | [Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
-| TUM | [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
-| Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 🛝 Slides \| 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
-| Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
-</details>
+| UW CSE 455 | [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
 
-### | Deep Learning |
-<details>
-
-#### for 3D
+#### 3D (Traditional)
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
-| ETHZ | [Deep Learning for Computer Vision: Seminal Work](https://www.cvg.ethz.ch/teaching/dlseminar/) | | Dr. Iro Armeni | 2022 |
+| NUS CS4277/CS5477 | [3D Computer Vision](https://nusmods.com/modules/CS5477/3-d-computer-vision) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
+| TUM | [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
+
+#### 3D (Modern)
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 🛝 Slides \| 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
 | CMU 16-889 | [Learning for 3D Vision](https://learning3d.github.io/index.html) | 🛝 Slides | Shubham Tulsiani | 2022 |
 | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | UC San Diego | [Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | 🛝 Slides | Hao Su | 2022 |
 
-#### for Coders
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
-| University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
-
-#### for Computer Vision
+#### Deep Learning Focused
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | UCF CAP6412 | [Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2022/) | 🛝 Slides \| 🎞️ YouTube | Mubarak Shah | 2022 |
 | TUM IN2389 | [Advanced Deep Learning for Computer Vision](https://dvl.in.tum.de/teaching/adl4cv-ws21/) | 🛝 [Slides (2020)](https://dvl.in.tum.de/slides/adl4cv-ss20/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLog3nOPCjKBl8s3Ia4ZtmOEniuYM3pVGQ) | Laura Leal-Taixé | 2021 |
 | MIT 6.S869 | [Advances in Computer Vision](https://www.scenerepresentations.org/courses/6869-advances/) | | Vincent Sitzmann | 2023 |
-| UCF CAP5415 | [Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | Yogesh S Rawat | 2021 |
 | TUM IN2375 | [Computer Vision III: Detection, Segmentation, and Tracking](https://dvl.in.tum.de/teaching/cv3dst-ss22/) | [🛝 Slides](https://dvl.in.tum.de/slides/cv3dst-ss22/) \| 🎞️ [YouTube (2021)](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb) | Laura Leal-Taixé | 2022 |
 | Stanford CS231N | [Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | 🛝 Slides \| 📝 [Notes](https://cs231n.github.io/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Fei-Fei Li | 2022 |
 | UMich EECS498/598 | [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | Justin Johnson | 2022 |
 | WAIC | [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) | Assaf Shocher | 2021 |
+| ETHZ | [Deep Learning for Computer Vision: Seminal Work](https://www.cvg.ethz.ch/teaching/dlseminar/) | | Dr. Iro Armeni | 2022 |
 | University of Rennes | [Deep Learning for Vision](https://sif-dlv.github.io/) | 🛝 Slides | Yannis Avrithis | 2020 |
-| UW CSE 455 | [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
 
-#### for Natural Language Processing
+#### Special Topics
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
+| CMU 16-623 | [Advanced Computer Vision Apps](http://16623.courses.cs.cmu.edu/) | 🛝 Slides | Simon Lucey | 2016 |
+| Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
+</details>
+
+### | Deep Learning |
+<details>
 
 #### General
 | | ID | Name | Materials | Author | Year |
@@ -228,19 +225,21 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 🛝 Slides \| 📝 Notes | Phillip Isola | 2022 |
 | | NYU DS-GA1008 | [Deep Learning](https://cds.nyu.edu/deep-learning/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | Yann LeCun | 2021 |
 | | Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
-| ⭐ | UvA | [Deep Learning](https://uvadlc.github.io/lectures-nov2020.html) | 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) | Efstratios Gavves | 2020-21|
+| ⭐ | UvA | [Deep Learning](https://uvadlc.github.io/lectures-nov2020.html) | 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) | Efstratios Gavves | 2021|
+| ⭐ | UvA | [Deep Learning II](https://uvadl2c.github.io/) | 🛝 Slides \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Efstratios Gavves | 2022 |
 | | CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
 | | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 🛝 Slides \| 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
 | | TUM IN2346| [Introduction to Deep Learning](https://dvl.in.tum.de/teaching/i2dl-ss22/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | Laura Leal-Taixé | 2022 |
   
-#### General - Advanced Topics
+#### Special Topics
 | | ID | Name | Materials | Author | Year |
 |-| -- | ---- | --------- | ------ | ---- |
-| ⭐ | UvA | [Deep Learning II](https://uvadl2c.github.io/) | 🛝 Slides \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Efstratios Gavves | 2022 |
+| | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
 | | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
 | | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
+| | Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
 | | TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
 | | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
 
@@ -251,6 +250,26 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Uni Tuebingen | [Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | 🛝 Slides | Joan Bruna | 2018|
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
+</details>
+
+### | Deep Learning for Coders |
+<details>
+
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
+| University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
+</details>
+
+### | Geometric Computing |
+<details>
+
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
+| CMU 15-458/858 | [Discrete Differential Geometry](https://brickisland.net/DDGSpring2022/) | 🛝 Slides \| 📝 [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) | Keenan Crane | 2022 |
+| MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
+| MIT 6.838 | [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
 </details>
 
 ### | Geometric Deep Learning |
@@ -264,17 +283,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | AMMI | [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | 🛝 Slides \| 📖 [proto-book](https://arxiv.org/abs/2104.13478) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
 | Stanford CS224W | [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 | Stanford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | 🛝 Slides | Tolga Birdal | 2020 |
-</details>
-
-### | Geometric Computing |
-<details>
-
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
-| CMU 15-458/858 | [Discrete Differential Geometry](https://brickisland.net/DDGSpring2022/) | 🛝 Slides \| 📝 [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) | Keenan Crane | 2022 |
-| MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
-| MIT 6.838 | [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
 </details>
 
 ### | Machine Learning |
