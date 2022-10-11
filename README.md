@@ -35,6 +35,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | [Distill](https://distill.pub/) | |
 | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
+| [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/) | Aakash Nain |
 | [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
 | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
@@ -61,6 +62,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) | Horace He | 2022 |
 | [Normalization in Deep Learning](https://arthurdouillard.com/post/normalization/) | Arthur Douillard | 2018 |
 | [Optimization in Deep Learning: AdaGrad, RMSProp, ADAM](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/) | Artem Oppermann | 2021 |
+| [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) | Edward Yang | 2019 |
 | [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/) | Leo Gao | 2019 |
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
 </details>
@@ -133,6 +135,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | Title  | Author | Year |
 | ------ | ------ | ---- |
+| [Deep Learning Architectures](https://github.com/johnGettings/Deep_Learning_Architectures) | John Gettings | 2022 |
 | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 </details>
 
@@ -194,7 +197,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### for Coders
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
+| University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
 | University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
 
 #### for Computer Vision
@@ -280,6 +283,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | | [Machine Learning University](https://mlu-explain.github.io/) | 📝 Notes | Jared Wilber | 2021-22 |
+| | [Open Machine Learning Course](https://mlcourse.ai/book/index.html) | 🎞️ [YouTube (2018)](https://www.youtube.com/playlist?list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX) | Yury Kashnitsky | 2022 |
 | Cornell CS5785 | [Applied Machine Learning](https://github.com/kuleshov/cornell-cs5785-2022-applied-ml) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) | Volodymyr Kuleshov | 2022 |
 | Cornell CS 4/5780 | [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2022fa/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube (2018)](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | Anil Damle | 2022 |
 | Berkeley CS189/289A | [Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | 📝 [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
@@ -349,15 +353,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### Reading Groups
 | Name | Video | Author |
 | ---- | ----- | ------ |
-| [Paper Reading Group](https://wandb.ai/site/paper-reading-group) | [YouTube](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5) | Weights & Biases |
+| [Graph Representation Learning Reading Group](https://grlmila.github.io/) | 🎞️ Videos | Mila - Quebec AI |
+| [Paper Reading Group](https://wandb.ai/site/paper-reading-group) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5) | Weights & Biases |
 
 #### Reading Lists
 | Name | Author |
 | ---- | ------ |
 | [AI/ML Papers List](https://aman.ai/papers/) | Aman Chadha |
+| [Annotated Papers](https://github.com/au1206/paper_annotations) | Akshay Uppal |
 | [Anthology of Modern ML](https://github.com/dmarx/anthology-of-modern-ml) | David Marx |
 | [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) | Dan Turkel |
 | [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
+| [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) | Xiaolong Li |
 
 #### Surveys
 | Title | Author | Year |
@@ -437,6 +444,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | Name | Author | Year |
 | ---- | ------ | ---- |
+| [einops](https://github.com/arogozhnikov/einops) | Alex Rogozhnikov | 2022 |
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | Haris Iqbal | 2020 |
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 </details>
@@ -447,7 +455,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | Title  | Video | Conference | Year |
 | ------ | ----- | ---------- | ---- |
-| [DeepMath](https://deepmath-conference.com/) | [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
+| [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
 </details>
 
 ### | Computer Vision | Deep Learning |
@@ -455,9 +463,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | Title  | Video | Conference | Year |
 | ------ | ----- | ---------- | ---- |
-| [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
-| [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
-| [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
+| [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | 🎞️ [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
+| [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | 🎞️ [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
+| [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
 </details>
 
 # Xtras
@@ -472,8 +480,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 ##### General
 | Name | Author |
 | ---- | ------ |
+| [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) | Tim Zhang |
 | [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
+| [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | heejkoo |
+| [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) | Ritchie Ng |
 
 ##### Neural Fields
 | Name | Author |
