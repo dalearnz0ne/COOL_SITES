@@ -12,7 +12,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
 
 # Blogs
-### | Computer Vision | Machine Learning | Deep Learning |
+### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
 #### Academic
@@ -68,7 +68,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Books
-### | Coding |
+### [ Coding ]
 <details>
 
 #### C++
@@ -78,7 +78,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Learn C++](https://www.learncpp.com/) | Alex Pomeranz | 2022 |
 </details>
 
-### | Computer Vision |
+### [ Computer Vision ]
 <details>
 
 | Title  | Author | Year |
@@ -87,7 +87,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) \| [draft](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | Simon J.D. Prince | 2012 |
 </details>
 
-### | Machine Learning |
+### [ Machine Learning ]
 <details>
 
 | Title  | Author | Year |
@@ -98,7 +98,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) \| [draft](https://github.com/probml/pml2-book/releases/latest) | Kevin Murphy | 2023 |
 </details>
 
-### | Deep Learning |
+### [ Deep Learning ]
 <details>
 
 | Title  | Author | Year |
@@ -110,7 +110,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Cheat Sheets
-### | Coding |
+### [ Coding ]
 <details>
 
 #### C++
@@ -130,7 +130,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Python Leetcode](https://github.com/shiwentao00/Python-leetcode) | Wentao Shi | 2022 |
 </details>
 
-### | Machine Learning | Deep Learning |
+### [ Machine Learning + Deep Learning ]
 <details>
 
 |   | Title  | Author | Year |
@@ -144,7 +144,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 * Lecture videos are indicated with 🎞
 * Notes are indicated with 📝
 
-### | Coding |
+### [ Coding ]
 <details>
 
 #### C++
@@ -166,7 +166,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | MIT | [Missing Semester](https://missing.csail.mit.edu/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
 </details>
 
-### | Computer Vision |
+### [ Computer Vision ]
 <details>
 
 #### General
@@ -213,7 +213,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
 </details>
 
-### | Deep Learning |
+### [ Deep Learning ]
 <details>
 
 #### General
@@ -252,7 +252,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
 </details>
 
-### | Deep Learning for Coders |
+### [ Deep Learning for Coders ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -261,7 +261,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
 </details>
 
-### | Geometric Computing |
+### [ Geometric Computing ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -272,7 +272,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | MIT 6.838 | [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
 </details>
 
-### | Geometric Deep Learning |
+### [ Geometric Deep Learning ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -285,7 +285,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Stanford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | 🛝 Slides | Tolga Birdal | 2020 |
 </details>
 
-### | Machine Learning |
+### [ Machine Learning ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -299,7 +299,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Stanford CS229 | [Machine Learning](https://cs229.stanford.edu/) | 🛝 Slides \| 📝 [Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) \| 🎞️ [YouTube (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Andrew Ng | 2022 |
 </details>
 
-### | MLOps |
+### [ MLOps ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -309,7 +309,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | arXiv | Operationalizing Machine Learning: An Interview Study | 📖 [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 </details>
 
-### | Reinforcement Learning |
+### [ Reinforcement Learning ]
 <details>
 
 | ID | Name | Materials | Author | Year |
@@ -321,7 +321,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 
 # Datasets
-### | Computer Vision | Machine Learning | Deep Learning |
+### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
 | Name | Author |
@@ -331,7 +331,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Newsletters
-### | Machine Learning | Deep Learning |
+### [ Machine Learning + Deep Learning ]
 <details>
 
 |   | Name | Author |
@@ -345,7 +345,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Papers
-### | Computer Vision | Machine Learning | Deep Learning |
+### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
 #### Aggregators
@@ -393,7 +393,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [Annotated PyTorch Paper Implementations](https://nn.labml.ai/) | labml.ai |
 </details>
 
-### | Metrics |
+### [ Metrics ]
 <details>
 
 | Name | Author |
@@ -404,7 +404,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 # Projects
 
 # Research
-### | Computer Vision |
+### [ Computer Vision ]
 <details>
 
 #### Advice
@@ -413,7 +413,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [How to do research in Computer Vision](http://3dvision.princeton.edu/courses/COS598/2014sp/slides/lecture21_how2research.pdf) | Jianxiong Xiao | 2012 |
 </details>
 
-### | Machine Learning | Deep Learning |
+### [ Machine Learning + Deep Learning ]
 <details>
 
 #### Advice
@@ -427,7 +427,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/) | Pranav Rajpurkar | 2022 |
 </details>
 
-### | General |
+### [ General ]
 <details>
 
 #### Advice
@@ -437,7 +437,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Software
-### | Computer Vision | Deep Learning |
+### [ Computer Vision + Deep Learning ]
 <details>
 
 #### Neural Fields
@@ -448,7 +448,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Tools
-### | Computer Vision | Deep Learning |
+### [ Computer Vision + Deep Learning ]
 <details>
 
 | Name | Author | Year |
@@ -459,7 +459,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Tutorials
-### | Deep Learning |
+### [ Deep Learning ]
 <details>
 
 | Title  | Video | Conference | Year |
@@ -467,7 +467,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
 </details>
 
-### | Computer Vision | Deep Learning |
+### [ Computer Vision + Deep Learning ]
 <details>
 
 | Title  | Video | Conference | Year |
@@ -478,14 +478,14 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Xtras
-### | Awesome Repos |
+### [ Awesome Repos ]
 <details>
 
 <!-- #### | Coding |
 | Name | Author |
 | ---- | ------ | -->
 
-#### | Computer Vision | Machine Learning | Deep Learning |
+#### [ Computer Vision + Machine Learning + Deep Learning ]
 ##### General
 | Name | Author |
 | ---- | ------ |
@@ -502,7 +502,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Awesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | NeurReps |
 </details>
 
-### | Deep Learning |
+### [ Deep Learning ]
 <details>
 
 |   | Name | Author |
