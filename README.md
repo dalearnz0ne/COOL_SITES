@@ -334,13 +334,14 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### | Machine Learning | Deep Learning |
 <details>
 
-| Name | Author |
-| ---- | ------ |
-| [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
-| [Import AI](https://jack-clark.net/) | Jack Clark |
-| [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
-| [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI |
-| [The Gradient](https://thegradient.pub/) | |
+|   | Name | Author |
+| - | ---- | ------ |
+| ⭐ | [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
+| | [Import AI](https://jack-clark.net/) | Jack Clark |
+| ⭐ | [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
+| | [State of AI Report](https://www.stateof.ai/) | Nathan Benaich |
+| | [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI |
+| | [The Gradient](https://thegradient.pub/) | |
 </details>
 
 # Papers
