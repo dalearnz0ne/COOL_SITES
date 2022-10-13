@@ -338,6 +338,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 |   | Name | Author |
 | - | ---- | ------ |
+| | [Alpha Signal](https://alphasignal.ai/latest-summary) | Lior |
 | ⭐ | [Davis Summarizes Papers](https://dblalock.substack.com/) | Davis Blalock |
 | | [Import AI](https://jack-clark.net/) | Jack Clark |
 | ⭐ | [Newsletter](https://paperswithcode.com/newsletter) | Papers with Code |
