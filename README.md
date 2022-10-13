@@ -222,6 +222,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |-| -- | ---- | --------- | ------ | ---- |
 | | | [DeepCourse](https://arthurdouillard.com/deepcourse/) | 🛝 Slides \| 📝 Notes | Arthur Douillard | 2021 |
 | ⭐ | | Neural Networks: Zero to Hero | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Andrej Karpathy | 2022 |
+| | | [Deep Learning](https://deeplearning.neuromatch.io/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw) | Neuromatch | 2022 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | 🛝 Slides | Phillip Isola | 2021 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 🛝 Slides \| 📝 Notes | Phillip Isola | 2022 |
 | | NYU DS-GA1008 | [Deep Learning](https://cds.nyu.edu/deep-learning/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | Yann LeCun | 2021 |
