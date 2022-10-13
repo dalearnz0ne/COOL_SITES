@@ -373,6 +373,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ---- | ------ |
 | [AI/ML Papers List](https://aman.ai/papers/) | Aman Chadha |
 | [Annotated Papers](https://github.com/au1206/paper_annotations) | Akshay Uppal |
+| [Annotated Research Papers](https://github.com/AakashKumarNain/annotated_research_papers) | Aakash Kumar Nain |
 | [Anthology of Modern ML](https://github.com/dmarx/anthology-of-modern-ml) | David Marx |
 | [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) | Dan Turkel |
 | [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
