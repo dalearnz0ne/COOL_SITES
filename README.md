@@ -27,6 +27,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Blog](https://www.deepmind.com/blog) | DeepMind |
 | [Google AI Blog](https://ai.googleblog.com/) | Google Research |
 | [Latest News](https://www.nvidia.com/en-us/research/news/) | NVIDIA Research |
+| [Meta AI Blog](https://ai.facebook.com/blog/) | Meta Research |
 | [OpenAI Blog](https://openai.com/blog/) | OpenAI |
 
 #### General
