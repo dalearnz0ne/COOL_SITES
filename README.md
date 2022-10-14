@@ -102,12 +102,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Deep Learning ]
 <details>
 
-| Title  | Author | Year |
-| ------ | ------ | ---- |
-| [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
-| [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
-| [The Principles of Deep Learning Theory](https://deeplearningtheory.com/) \| [draft](https://arxiv.org/abs/2106.10165) | Daniel A. Roberts | 2022 |
-| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
+|   | Title  | Author | Year |
+| - | ------ | ------ | ---- |
+| | [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
+| ⭐ | [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
+| | [The Principles of Deep Learning Theory](https://deeplearningtheory.com/) \| [draft](https://arxiv.org/abs/2106.10165) | Daniel A. Roberts | 2022 |
+| | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
 </details>
 
 # Cheat Sheets
@@ -229,7 +229,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
 | ⭐ | UvA | [Deep Learning](https://uvadlc.github.io/lectures-nov2020.html) | 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) | Efstratios Gavves | 2021|
 | ⭐ | UvA | [Deep Learning II](https://uvadl2c.github.io/) | 🛝 Slides \| 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) | Efstratios Gavves | 2022 |
-| | CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
+| ⭐ | CMU 10-414/714 | [Deep Learning Systems](https://dlsyscourse.org/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g) | Tianqi Chen | 2022 |
 | | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 🛝 Slides \| 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
 | ⭐ | TUM IN2346| [Introduction to Deep Learning](https://dvl.in.tum.de/teaching/i2dl-ss22/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | Laura Leal-Taixé | 2022 |
