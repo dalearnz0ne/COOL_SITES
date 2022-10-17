@@ -113,6 +113,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |   | Title  | Author | Year |
 | - | ------ | ------ | ---- |
 | | [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | 2016 |
+| | [Deep Learning for Molecules and Materials](https://dmol.pub/) | Andrew White | 2022 |
 | ⭐ | [Dive into Deep Learning](https://d2l.ai/) | Zhang et al. | 2022 |
 | | [The Principles of Deep Learning Theory](https://deeplearningtheory.com/) \| [draft](https://arxiv.org/abs/2106.10165) | Daniel A. Roberts | 2022 |
 | | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
