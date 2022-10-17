@@ -514,6 +514,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
 | [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | heejkoo |
 | [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) | Ritchie Ng |
+| [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | Min-Hung Chen |
 
 ##### Neural Fields
 | Name | Author |
