@@ -264,13 +264,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
 </details>
 
-### [ Deep Learning for Coders ]
+### [ fast.ai ]
 <details>
 
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
+| University of San Francisco | [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | 📖 [Book](https://github.com/fastai/course-nlp) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai | 2019 |
+| University of San Francisco | [Applied Data Ethics](https://www.fast.ai/posts/2020-08-19-data-ethics.html) | 🎞️ [Lessons](https://ethics.fast.ai/videos/) | fast.ai | 2020 |
+| University of San Francisco | [Computational Linear Algebra for Coders](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html) | 📖 [Book](https://github.com/fastai/numerical-linear-algebra-v2) \| 🎞️ [YouTube (2017)](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai | 2018 |
+| University of San Francisco | [Deep Learning from the Foundations](https://www.fast.ai/posts/2019-06-28-course-p2v3.html) | 🎞️ [Lessons](https://course19.fast.ai/videos/?lesson=8) | fast.ai | 2019 |
+| University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | TBD | fast.ai | 2023 |
+| University of San Francisco | [Introduction to Machine Learning for Coders](https://www.fast.ai/posts/2018-09-26-ml-launch.html) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | fast.ai | 2018 |
 | University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
-| University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | | fast.ai | 2022 |
 </details>
 
 ### [ Geometric Computing ]
