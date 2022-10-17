@@ -221,6 +221,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | - | -- | ---- | --------- | ------ | ---- |
 | | CMU 16-623 | [Advanced Computer Vision Apps](http://16623.courses.cs.cmu.edu/) | 🛝 Slides | Simon Lucey | 2016 |
 | ⭐ | Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
+| | Uni Bonn | [StachnissLab Photogrammetry & Robotics Courses](https://www.ipb.uni-bonn.de/teaching/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/c/CyrillStachniss) | Cyrill Stachniss | 2018-22 |
 </details>
 
 ### [ Deep Learning ]
