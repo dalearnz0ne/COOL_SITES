@@ -306,6 +306,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Machine Learning ]
 <details>
 
+#### General
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | | [Machine Learning University](https://mlu-explain.github.io/) | 📝 Notes | Jared Wilber | 2021-22 |
@@ -315,6 +316,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Berkeley CS189/289A | [Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | 📝 [Notes](http://www.cs.berkeley.edu/~jrs/papers/machlearn.pdf) | Jonathan Shewchuk | 2022 |
 | MIT 6.036 | [Introduction to Machine Learning](https://tamarabroderick.com/ml.html) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV) | Tamara Broderick | 2020 |
 | Stanford CS229 | [Machine Learning](https://cs229.stanford.edu/) | 🛝 Slides \| 📝 [Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) \| 🎞️ [YouTube (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Andrew Ng | 2022 |
+  
+#### Theory
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| ⭐ | Brown | [Seeing Theory](https://seeing-theory.brown.edu/) | 📖 [Book](https://seeing-theory.brown.edu/doc/seeing-theory.pdf) | Daniel Kunin | 2018 |
 </details>
 
 ### [ MLOps ]
