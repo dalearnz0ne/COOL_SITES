@@ -33,6 +33,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### General
 |   | Name  | Author |
 | - | ----- | ------ |
+| | [AI Summer](https://theaisummer.com/) | Sergios Karagiannakos |
 | | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | ⭐ | [Distill](https://distill.pub/) | |
 | ⭐ | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
