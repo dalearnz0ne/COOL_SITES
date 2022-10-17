@@ -75,8 +75,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### C++
 | Title  | Author | Year |
 | ------ | ------ | ---- |
-| [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup | 2022 |
-| [Learn C++](https://www.learncpp.com/) | Alex Pomeranz | 2022 |
+| [A Tour of C++](https://www.stroustrup.com/tour3.html) | Bjarne Stroustrup | 2022 |
+| [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) | Scott Meyers | 2014 |
+| [The C++ Programming Language](https://www.stroustrup.com/4th.html) | Bjarne Stroustrup | 2013 |
+| [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) | Stack Overflow | 2022 |
+  
+#### Python
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | Jake VanderPlas | 2016 |
+| [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Luciano Ramalho | 2022 |
 </details>
 
 ### [ Computer Vision ]
@@ -119,8 +127,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ------ | ------ | ---- |
 | [C++ Quick Reference](https://github.com/utkuufuk/cpp-quick-reference) | Utku Ufuk | 2019 |
 | [Learn C++ in Y Minutes](https://learnxinyminutes.com/docs/c++/) | Steven Basart | 2022 |
-| [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra | 2022 |
-| [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | 2022 |
 
 #### Python
 | Title  | Author | Year |
@@ -149,21 +155,24 @@ An awesome collection of resources for coding, computer vision, machine learning
 <details>
 
 #### C++
-| Name | Materials | Author | Year |
-| ---- | --------- | ------ | ---- |
-| Before you C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS2fjnHL1qkyGACJAYNZJtke) | Code for yourself | 2022 |
-| C++ for yourself | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) | Code for yourself | 2022 |
-| C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | The Cherno | 2022 |
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| | Before you C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS2fjnHL1qkyGACJAYNZJtke) | Code for yourself | 2022 |
+| | C++ for yourself | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) | Code for yourself | 2022 |
+| | C++ | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | The Cherno | 2022 |
+| Uni Bonn | Modern C++ for Computer Vision and Image Processing | 🛝 Slides \| 🎞️ Tutorials \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) | Cyrill Stachniss | 2020 |
 
 #### Data Structures & Algorithms
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
+| | [Algorithms & Data Structures Project](https://github.com/williamfiset/Algorithms) | 🎞️ [YouTube](https://www.youtube.com/c/WilliamFiset-videos/featured) | Wiliam Fiset | 2017-22 |
 | MIT 6.006 | [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | 📝 [Notes](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/) \| 🎞️ [Videos](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) | Erik Demaine | 2020 |
 | MIT 6.851 | [Advanced Data Structures](http://courses.csail.mit.edu/6.851/spring21/) | 📝 Notes \| 🎞️ Videos | Erik Demaine | 2021 |
 
 #### General
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
+| Harvard CS50X | [Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube (2021)](https://www.youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL) | David Malan | 2022 |
 | MIT | [Missing Semester](https://missing.csail.mit.edu/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
 </details>
 
@@ -504,6 +513,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ---- | ------ |
 | [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF) | Yen-Chen Lin |
 | [Awesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | NeurReps |
+</details>
+
+### [ Coding ]
+<details>
+
+#### C++
+| Name  | Author |
+| ----- | ------ |
+| [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup |
+| [Learn C++](https://www.learncpp.com/) | Alex Pomeranz |
+| [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra |
+| [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | |
 </details>
 
 ### [ Deep Learning ]
