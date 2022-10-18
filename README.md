@@ -81,6 +81,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [The C++ Programming Language](https://www.stroustrup.com/4th.html) | Bjarne Stroustrup | 2013 |
 | [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) | Stack Overflow | 2022 |
   
+#### General
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) | Jeff Erickson | 2019 |  
+
 #### Python
 | Title  | Author | Year |
 | ------ | ------ | ---- |
@@ -283,6 +288,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | TBD | fast.ai | 2023 |
 | University of San Francisco | [Introduction to Machine Learning for Coders](https://www.fast.ai/posts/2018-09-26-ml-launch.html) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | fast.ai | 2018 |
 | University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
+| | [Walk with fastai -- Revisited](https://thezachmueller.gumroad.com/p/walk-with-fastai-revisited) | 📝 Notes \| 🎞️ Videos | Zachary Mueller | 2022 |
 </details>
 
 ### [ Geometric Computing ]
@@ -526,6 +532,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
 | [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | heejkoo |
+| [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) | Andreas Kouzelis |
 | [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) | Ritchie Ng |
 | [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | Min-Hung Chen |
 
@@ -546,6 +553,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Learn C++](https://www.learncpp.com/) | Alex Pomeranz |
 | [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra |
 | [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | |
+  
+#### General
+| Name  | Author |
+| ----- | ------ |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university) | John Washam |
 </details>
 
 ### [ Deep Learning ]
