@@ -240,9 +240,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 |-| -- | ---- | --------- | ------ | ---- |
 | | | [DeepCourse](https://arthurdouillard.com/deepcourse/) | 🛝 Slides \| 📝 Notes | Arthur Douillard | 2021 |
 | ⭐ | | Neural Networks: Zero to Hero | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Andrej Karpathy | 2022 |
-| | | [Deep Learning](https://deeplearning.neuromatch.io/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw) | Neuromatch | 2022 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/2021/index.html) | 🛝 Slides | Phillip Isola | 2021 |
 | | MIT 6.S898 | [Deep Learning](https://phillipi.github.io/6.s898/) | 🛝 Slides \| 📝 Notes | Phillip Isola | 2022 |
+| | Neuromatch Academy | [Deep Learning](https://deeplearning.neuromatch.io/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw) | Neuromatch | 2022 |
 | | NYU DS-GA1008 | [Deep Learning](https://cds.nyu.edu/deep-learning/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | Yann LeCun | 2021 |
 | ⭐ | Uni Tuebingen | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | Andreas Geiger | 2021 |
 | ⭐ | UvA | [Deep Learning](https://uvadlc.github.io/lectures-nov2020.html) | 📝 🎞️ [Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk) | Efstratios Gavves | 2021|
@@ -563,9 +563,10 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Deep Learning ]
 <details>
 
-|   | Name | Author |
-| - | ---- | ------ |
-| | [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | Jacob Hilton |
-| ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | Mario |
-| | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Alex Bailo |
+|   | Name | Description | Author |
+| - | ---- | ----------- | ------ |
+| | [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | This is an advanced curriculum for getting up to speed with some of the latest developments in deep learning | Jacob Hilton |
+| ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
+| | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
+| | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
 </details>
