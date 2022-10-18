@@ -201,6 +201,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |   | ID | Name | Materials | Author | Year |
 | - | -- | ---- | --------- | ------ | ---- |
 | | Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 🛝 Slides \| 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
+| | CSC2547 | [Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning](http://www.pair.toronto.edu/csc2547-w21/) | 🛝 Slides | Animesh Garg | 2021 |
 | | CMU 16-889 | [Learning for 3D Vision](https://learning3d.github.io/index.html) | 🛝 Slides | Shubham Tulsiani | 2022 |
 | ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | | UC San Diego | [Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | 🛝 Slides | Hao Su | 2022 |
@@ -245,25 +246,29 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | UMD CMSC 828W | [Foundations of Deep Learning](https://www.cs.umd.edu/class/fall2020/cmsc828W/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | Soheil Feizi | 2020 |
 | | CMU 11-785 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S22/index.html) | 🛝 Slides \| 📝 [Notes](http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html) \| 🎞️ YouTube | Bhiksha Raj | 2022 |
 | ⭐ | TUM IN2346| [Introduction to Deep Learning](https://dvl.in.tum.de/teaching/i2dl-ss22/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | Laura Leal-Taixé | 2022 |
+| | Mila IFT6135 | [Representation Learning](https://sites.google.com/mila.quebec/ift6135/) | 🛝 Slides | Aaron Courville | 2019 |
   
 #### Special Topics
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
+| Stanford CS236 | [Deep Generative Models]() | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
 | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
 | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
 | Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
+| Mila IFT6167 | [Neural Scaling Laws and Foundation Models](https://sites.google.com/view/nsl-course/) | 🛝 Slides \| 🎞️ Videos | Irina Rish | 2022 |
 | TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
 | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
 
 #### Theory
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| | [Categories for AI](https://cats.for.ai/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLSdFiFTAI4sQ0Rg4BIZcNnU-45I9DI-VB) | Andrew Dudzik | 2022 |
-| Uni Tuebingen | [Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
-| NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | 🛝 Slides | Joan Bruna | 2018|
-| NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | | [Categories for AI](https://cats.for.ai/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLSdFiFTAI4sQ0Rg4BIZcNnU-45I9DI-VB) | Andrew Dudzik | 2022 |
+| | Uni Tuebingen | [Mathematics for Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) | Ulrike von Luxburg | 2021 |
+| | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring18/) | 🛝 Slides | Joan Bruna | 2018|
+| | NYU | [MathsDL](https://joanbruna.github.io/MathsDL-spring19/) | 🛝 Slides | Joan Bruna | 2019|
+| ⭐ | Mila IFT6169 | [Theoretical principles for deep learning](http://mitliagkas.github.io/ift6085-dl-theory-class/) | 🛝 Slides \| 📝 Notes | Yannis Mitliagkas | 2022 |
 </details>
 
 ### [ fast.ai ]
@@ -300,6 +305,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Uni Ch | [First Italian School on Geometric Deep Learning](https://www.sci.unich.it/geodeep2022/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ) | Michael Bronstein | 2022 |
 | AMMI | [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures_2021/) | 🛝 Slides \| 📖 [proto-book](https://arxiv.org/abs/2104.13478) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | Michael Bronstein | 2021 |
 | AMMI | [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) | 🛝 Slides \| 📖 [proto-book](https://arxiv.org/abs/2104.13478) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C) | Michael Bronstein | 2022 |
+| Mila COMP760 | [Geometry and Generative Models](https://joeybose.github.io/Blog/GenCourse) | 🛝 Slides \| 📝 Notes | Joey Bose | 2022 |
 | Stanford CS224W | [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Jure Leskovec | 2022|
 | Stanford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | 🛝 Slides | Tolga Birdal | 2020 |
 </details>
@@ -547,6 +553,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 |   | Name | Author |
 | - | ---- | ------ |
+| | [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | Jacob Hilton |
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Alex Bailo |
 </details>
