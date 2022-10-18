@@ -201,7 +201,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |   | ID | Name | Materials | Author | Year |
 | - | -- | ---- | --------- | ------ | ---- |
 | | Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 🛝 Slides \| 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
-| | CSC2547 | [Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning](http://www.pair.toronto.edu/csc2547-w21/) | 🛝 Slides | Animesh Garg | 2021 |
+| | U Toronto CSC2547 | [Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning](http://www.pair.toronto.edu/csc2547-w21/) | 🛝 Slides | Animesh Garg | 2021 |
 | | CMU 16-889 | [Learning for 3D Vision](https://learning3d.github.io/index.html) | 🛝 Slides | Shubham Tulsiani | 2022 |
 | ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | | UC San Diego | [Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | 🛝 Slides | Hao Su | 2022 |
@@ -252,7 +252,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
-| Stanford CS236 | [Deep Generative Models]() | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
+| Stanford CS236 | [Deep Generative Models](https://deepgenerativemodels.github.io/) | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
 | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
 | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
