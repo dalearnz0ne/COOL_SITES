@@ -513,6 +513,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ------ | ----- | ---------- | ---- |
 | [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | 🎞️ [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | 🎞️ [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
+| [Neural Geometry and Rendering](https://ngr-co3d.github.io/) | TBD | ECCV | 2022 |
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
 </details>
 
