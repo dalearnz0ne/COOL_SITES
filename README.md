@@ -429,6 +429,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Anthology of Modern ML](https://github.com/dmarx/anthology-of-modern-ml) | David Marx |
 | [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) | Dan Turkel |
 | [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) | Chris Bender |
+| [Selected Papers](https://research.runwayml.com/selected-papers) | Runway ML Research |
 | [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) | Xiaolong Li |
 
 #### Surveys
