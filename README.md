@@ -230,6 +230,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | CMU 16-623 | [Advanced Computer Vision Apps](http://16623.courses.cs.cmu.edu/) | 🛝 Slides | Simon Lucey | 2016 |
 | ⭐ | Uni Tuebingen | [Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | Andreas Geiger | 2022 |
 | | Uni Bonn | [StachnissLab Photogrammetry & Robotics Courses](https://www.ipb.uni-bonn.de/teaching/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/c/CyrillStachniss) | Cyrill Stachniss | 2018-22 |
+| | [MIT 16.485](https://arxiv.org/abs/2206.00777) | [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) | 🛝 Slides \| 📝 Notes | Luca Carlone | 2022 |
 </details>
 
 ### [ Deep Learning ]
@@ -256,6 +257,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### Special Topics
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
+| Hugging Face | [🤗 Course - Natural Language Processing](https://huggingface.co/course/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) | Abid et al. | 2022 |
 | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
 | Stanford CS236 | [Deep Generative Models](https://deepgenerativemodels.github.io/) | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
 | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
@@ -276,19 +278,34 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Mila IFT6169 | [Theoretical principles for deep learning](http://mitliagkas.github.io/ift6085-dl-theory-class/) | 🛝 Slides \| 📝 Notes | Yannis Mitliagkas | 2022 |
 </details>
 
-### [ fast.ai ]
+### [ [deeplearning.ai](https://www.deeplearning.ai/courses/) ]
 <details>
 
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| University of San Francisco | [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | 📖 [Book](https://github.com/fastai/course-nlp) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai | 2019 |
-| University of San Francisco | [Applied Data Ethics](https://www.fast.ai/posts/2020-08-19-data-ethics.html) | 🎞️ [Lessons](https://ethics.fast.ai/videos/) | fast.ai | 2020 |
-| University of San Francisco | [Computational Linear Algebra for Coders](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html) | 📖 [Book](https://github.com/fastai/numerical-linear-algebra-v2) \| 🎞️ [YouTube (2017)](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai | 2018 |
-| University of San Francisco | [Deep Learning from the Foundations](https://www.fast.ai/posts/2019-06-28-course-p2v3.html) | 🎞️ [Lessons](https://course19.fast.ai/videos/?lesson=8) | fast.ai | 2019 |
-| University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | TBD | fast.ai | 2023 |
-| University of San Francisco | [Introduction to Machine Learning for Coders](https://www.fast.ai/posts/2018-09-26-ml-launch.html) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | fast.ai | 2018 |
-| University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
-| | [Walk with fastai -- Revisited](https://thezachmueller.gumroad.com/p/walk-with-fastai-revisited) | 📝 Notes \| 🎞️ Videos | Zachary Mueller | 2022 |
+| Coursera | [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | 🎞️ Videos | Andrew Ng | 2022 |
+| Coursera | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | 🎞️ Videos | Andrew Ng | 2022 |
+| Coursera | [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) | 🎞️ Videos | Younes Bensouda Mourri | 2022 |
+| Coursera | [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) | 🎞️ Videos | Pranav Rajpurkar | 2022 |
+| Coursera | [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | 🎞️ Videos | Laurence Moroney | 2022 |
+| Coursera | [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | 🎞️ Videos | Laurence Moroney | 2022 |
+| Coursera | [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | 🎞️ Videos | Sharon Zhou | 2022 |
+| Coursera | [Machine Learning for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | 🎞️ Videos | Andrew Ng | 2022 |
+</details>
+
+### [ fast.ai ]
+<details>
+
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | University of San Francisco | [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | 📖 [Book](https://github.com/fastai/course-nlp) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai | 2019 |
+| | University of San Francisco | [Applied Data Ethics](https://www.fast.ai/posts/2020-08-19-data-ethics.html) | 🎞️ [Lessons](https://ethics.fast.ai/videos/) | fast.ai | 2020 |
+| | University of San Francisco | [Computational Linear Algebra for Coders](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html) | 📖 [Book](https://github.com/fastai/numerical-linear-algebra-v2) \| 🎞️ [YouTube (2017)](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai | 2018 |
+| | University of San Francisco | [Deep Learning from the Foundations](https://www.fast.ai/posts/2019-06-28-course-p2v3.html) | 🎞️ [Lessons](https://course19.fast.ai/videos/?lesson=8) | fast.ai | 2019 |
+| ⭐ | University of Queensland | [From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022.html) | 🎞️ [Lessons](https://forums.fast.ai/t/lesson-9-part-2-preview/101336) | fast.ai | 2023 |
+| | University of San Francisco | [Introduction to Machine Learning for Coders](https://www.fast.ai/posts/2018-09-26-ml-launch.html) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | fast.ai | 2018 |
+| ⭐ | University of Queensland | [Practical Deep Learning for Coders](https://course.fast.ai/) | 📖 [Book](https://github.com/fastai/fastbook) \| 📖 [Docs](https://www.cognitivefactory.fr/fastaidocs/) \| 🎞️ [Lessons](https://course.fast.ai/Lessons/lesson1.html) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) | fast.ai | 2022 |
+| | | [Walk with fastai -- Revisited](https://thezachmueller.gumroad.com/p/walk-with-fastai-revisited) | 📝 Notes \| 🎞️ Videos | Zachary Mueller | 2022 |
 </details>
 
 ### [ Geometric Computing ]
