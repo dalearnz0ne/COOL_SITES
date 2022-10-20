@@ -590,4 +590,5 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
+| ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman |
 </details>
