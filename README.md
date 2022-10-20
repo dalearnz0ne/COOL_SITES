@@ -551,6 +551,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
 | [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | heejkoo |
+| [Awesome Vision and Language Pre-training](https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training) | Feilong Chen |
 | [Awesomest](https://github.com/Nyandwi/awesomest) | Jean de Dieu Nyandwi |
 | [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) | Andreas Kouzelis |
 | [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) | Ritchie Ng |
