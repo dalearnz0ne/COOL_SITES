@@ -514,6 +514,14 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Tools
+### [ Coding ]
+<details>
+
+| Name | Description | Author | Year |
+| ---- | ----------- | ------ | ---- |
+| [Code Clippy](https://github.com/CodedotAl/code-clippy-vscode) | Inline code suggestions from your friendly neighborhood hacker Clippy for VSCode | CodedotAI | 2022 |  
+</details>
+
 ### [ Computer Vision + Deep Learning ]
 <details>
 
