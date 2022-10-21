@@ -504,6 +504,15 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | Matthew Tancik | 2022 |
 </details>
 
+### [ Knowledge Management ]
+<details>
+
+| Name | Author | Year |
+| ---- | ------ | ---- |
+| [Obsidian](https://obsidian.md/) | Shida Li | 2022 |
+| [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Martin Donath | 2022 |
+</details>
+
 # Tools
 ### [ Computer Vision + Deep Learning ]
 <details>
@@ -513,6 +522,15 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [einops](https://github.com/arogozhnikov/einops) | Alex Rogozhnikov | 2022 |
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | Haris Iqbal | 2020 |
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
+</details>
+
+### [ Knowledge Management ]
+<details>
+
+| Name | Description | Author | Year |
+| ---- | ----------- | ------ | ---- |
+| `obsidian-git` | Simple plugin that allows you to back up your Obsidian.md vault to a remote Git repository (e.g. private repo on GitHub) | Denis Olehov | 2022 |
+| [Obsidian Mkdocs Publisher](https://github.com/ObsidianPublisher) | Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault | ObsidianPublisher | 2022 |
 </details>
 
 # Tutorials
