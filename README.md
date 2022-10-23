@@ -511,6 +511,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |   | Name | Description | Author | Year |
 | - | ---- | ----------- | ------ | ---- |
 | | [Detectron2](https://github.com/facebookresearch/detectron2) | Detectron2 is Meta AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. | Meta AI | 2019 |
+| | [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) | NVIDIA Kaolin library provides a PyTorch API for working with a variety of 3D representations and includes a growing collection of GPU-optimized operations such as modular differentiable rendering, fast conversions between representations, data loading, 3D checkpoints and more | NVIDIA | 2019 |
 | ⭐ | [Lightning](https://github.com/Lightning-AI/lightning) | The ultimate PyTorch research framework. Scale your models, without the boilerplate | Lightning AI | 2022 |
 | ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
 | | [PyTorch3D](https://github.com/facebookresearch/pytorch3d) | PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch | Meta AI | 2020 |
