@@ -512,6 +512,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | - | ---- | ----------- | ------ | ---- |
 | ⭐ | [Lightning](https://github.com/Lightning-AI/lightning) | The ultimate PyTorch research framework. Scale your models, without the boilerplate | Lightning AI | 2022 |
 | ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
+| ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman | 2022 |
 
 #### Neural Fields
 | Name | Author | Year |
@@ -638,5 +639,4 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
-| ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman |
 </details>
