@@ -487,6 +487,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [How to ML Paper - A Brief Guide](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit) | Jakob Foerster | 2022 |
+| [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) | Michael Lones | 2021 |
 
 #### Courses
 | Title | Author | Year |
