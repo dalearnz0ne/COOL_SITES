@@ -29,6 +29,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Latest News](https://www.nvidia.com/en-us/research/news/) | NVIDIA Research |
 | [Meta AI Blog](https://ai.facebook.com/blog/) | Meta Research |
 | [OpenAI Blog](https://openai.com/blog/) | OpenAI |
+| [Paper Digest Blog](https://www.paperdigest.org/blog/) | Paper Digest |
 
 #### General
 |   | Name  | Author |
@@ -361,6 +362,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | -- | ---- | --------- | ------ | ---- |
 | | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/c/FullStackDeepLearning) | Charles Frye | 2022 |
 | Stanford CS329S | [Machine Learning Systems Design](https://stanford-cs329s.github.io/) | 🛝 Slides \| 📝 Notes \| 🎞️ [Demo Day](https://www.youtube.com/watch?v=AZNTqytOhXk&t=12771s) | Chip Huyen | 2022 |
+| | [Made with ML: MLOps Course](https://madewithml.com/#mlops) | 📝 Notes | Goku Mohandas | 2022 |
 | arXiv | Operationalizing Machine Learning: An Interview Study | 📖 [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 </details>
 
@@ -404,14 +406,17 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
-#### Aggregators
+#### Aggregators & Search
 |   | Name | Author |
 | - | ---- | ------ |
 | | [arxiv sanity lite](https://arxiv-sanity-lite.com/) | Andrej Karpathy |
+| ⭐ | ["Best Paper" Digest](https://www.paperdigest.org/best-paper-digest/) | Chang Wang |
 | | [Bird's-eye views of conference proceedings]() | Tanel Pärnamaa |
+| ⭐ | [Conference Paper Digest](https://www.paperdigest.org/conference-paper-digest/) | Chang Wang |
 | ⭐ | [Deep Learning Monitor](https://deeplearn.org/) | Raphael Shu |
 | | [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/index.html) | Xie et al. |
 | | [Recent Papers](https://papers.labml.ai/papers/recent/) | labml.ai |
+| | [Semantic Scholar](https://www.semanticscholar.org/) | Allen Institute for AI |
 | ⭐ | [Trending Research](https://paperswithcode.com/) | Papers with Code |
 | | [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) | |
 
@@ -444,6 +449,10 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Deep learning for monocular depth estimation: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925231220320014) | Yue Ming | 2021 |
 | [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747) | Florinel-Alin Croitoru | 2022 |
 | [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) | Xie et al. | 2022 |
+
+#### Theses
+| Title | Author | Year |
+| ----- | ------ | ---- |
 
 #### With Code
 |   | Name | Author |
@@ -498,11 +507,22 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Computer Vision + Deep Learning ]
 <details>
 
+#### General
+|   | Name | Description | Author | Year |
+| - | ---- | ----------- | ------ | ---- |
+| ⭐ | [Lightning](https://github.com/Lightning-AI/lightning) | The ultimate PyTorch research framework. Scale your models, without the boilerplate | Lightning AI | 2022 |
+| ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
+
 #### Neural Fields
 | Name | Author | Year |
 | ---- | ------ | ---- |
 | [NeRF-Factory](https://github.com/kakaobrain/NeRF-Factory/) | Kakao Brain Corp. | 2022 |
 | [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | Matthew Tancik | 2022 |
+  
+#### SLAM
+| Name | Description | Author | Year |
+| ---- | ----------- | ------ | ---- |
+| [HyperSLAM](https://github.com/VIS4ROB-lab/HyperSLAM) | Modular, open-source implementations of continuous-time simultaneous localization and mapping algorithms | [ETH Zurich V4RL](https://asl.ethz.ch/v4rl.html) | 2022 |
 </details>
 
 ### [ Knowledge Management ]
@@ -559,7 +579,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | 🎞️ [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | 🎞️ [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
 | [Neural Geometry and Rendering](https://ngr-co3d.github.io/) | TBD | ECCV | 2022 |
-| [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
+| [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 📖 [Paper](https://arxiv.org/abs/2210.09263) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
 </details>
 
 # Xtras
@@ -608,11 +628,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university) | John Washam |
 </details>
 
-### [ Deep Learning ]
+### [ Computer Vision + Deep Learning ]
 <details>
 
 |   | Name | Description | Author |
 | - | ---- | ----------- | ------ |
+| ⭐ | [AI Deadlines](https://aideadlin.es/calendar/) | Overview of deadlines and conference dates in a calendar. Also, countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. | Papers with Code |
 | | [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | This is an advanced curriculum for getting up to speed with some of the latest developments in deep learning | Jacob Hilton |
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
