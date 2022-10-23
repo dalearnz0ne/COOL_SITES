@@ -510,9 +510,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### General
 |   | Name | Description | Author | Year |
 | - | ---- | ----------- | ------ | ---- |
+| | [Detectron2](https://github.com/facebookresearch/detectron2) | Detectron2 is Meta AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. | Meta AI | 2019 |
 | ⭐ | [Lightning](https://github.com/Lightning-AI/lightning) | The ultimate PyTorch research framework. Scale your models, without the boilerplate | Lightning AI | 2022 |
 | ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
+| | [PyTorch3D](https://github.com/facebookresearch/pytorch3d) | PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch | Meta AI | 2020 |
 | ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman | 2022 |
+| | [Theseus](https://github.com/facebookresearch/theseus) | Theseus is an efficient application-agnostic library for building custom nonlinear optimization layers in PyTorch to support constructing various problems in robotics and vision as end-to-end differentiable architectures | Meta AI | 2022 |
 
 #### Neural Fields
 | Name | Author | Year |
@@ -523,6 +526,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### SLAM
 | Name | Description | Author | Year |
 | ---- | ----------- | ------ | ---- |
+| [LieTorch](https://github.com/princeton-vl/lietorch) | The LieTorch library generalizes PyTorch to 3D transformation groups | Zach Teed | 2021 |
 | [HyperSLAM](https://github.com/VIS4ROB-lab/HyperSLAM) | Modular, open-source implementations of continuous-time simultaneous localization and mapping algorithms | [ETH Zurich V4RL](https://asl.ethz.ch/v4rl.html) | 2022 |
 </details>
 
