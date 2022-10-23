@@ -569,14 +569,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Tutorials
-### [ Deep Learning ]
-<details>
-
-| Title  | Video | Conference | Year |
-| ------ | ----- | ---------- | ---- |
-| [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
-</details>
-
 ### [ Computer Vision + Deep Learning ]
 <details>
 
@@ -586,6 +578,23 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | 🎞️ [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
 | [Neural Geometry and Rendering](https://ngr-co3d.github.io/) | TBD | ECCV | 2022 |
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 📖 [Paper](https://arxiv.org/abs/2210.09263) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
+</details>
+
+### [ Deep Learning ]
+<details>
+
+| Title  | Video | Conference | Year |
+| ------ | ----- | ---------- | ---- |
+| [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
+</details>
+
+
+### [ Robotics ]
+<details>
+
+| Title  | Video | Conference | Year |
+| ------ | ----- | ---------- | ---- |
+| [Riemann and Gauss meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization and Control](https://sites.google.com/view/iros2022-tutorial-geometry/) | | IROS | 2022 |
 </details>
 
 # Xtras
