@@ -24,6 +24,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### Corporate
 | Name  | Author |
 | ----- | ------ |
+| [AI2 Blog](https://blog.allenai.org/) | Allen Institute for AI |
 | [Blog](https://www.deepmind.com/blog) | DeepMind |
 | [Google AI Blog](https://ai.googleblog.com/) | Google Research |
 | [Latest News](https://www.nvidia.com/en-us/research/news/) | NVIDIA Research |
