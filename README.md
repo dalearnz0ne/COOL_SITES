@@ -428,10 +428,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) | |
 
 #### Reading Groups
-| Name | Video | Author |
-| ---- | ----- | ------ |
-| [Graph Representation Learning Reading Group](https://grlmila.github.io/) | 🎞️ Videos | Mila - Quebec AI |
-| [Paper Reading Group](https://wandb.ai/site/paper-reading-group) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5) | Weights & Biases |
+|   | Name | Materials | Author |
+| - | ---- | --------- | ------ |
+| | [Graph Representation Learning Reading Group](https://grlmila.github.io/) | 🎞️ Videos | Mila - Quebec AI |
+| ⭐ | [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl) | Hannes Stärk |
+| | [Paper Reading Group](https://wandb.ai/site/paper-reading-group) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5) | Weights & Biases |
 
 #### Reading Lists
 | Name | Author |
