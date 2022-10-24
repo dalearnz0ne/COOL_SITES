@@ -639,12 +639,14 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | |
   
 #### General
-| Name  | Author |
-| ----- | ------ |
-| [Coding Interview University](https://github.com/jwasham/coding-interview-university) | John Washam |
+|   | Name | Description | Author |
+| - | ---- | ----------- | ------ |
+| | [Coding Interview University](https://github.com/jwasham/coding-interview-university) | The items listed here will prepare you well for a technical interview at just about any software company, including the giants | John Washam |
+| | [Fira Code](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Nikita Prokopov |
+| ⭐ | [NeetCode 150](https://neetcode.io/practice) | A list of LC questions, organized by topics and sorted from easiest to hardest. Each problem is accompanied by a thorough video explanation. | NeetCode.io |
 </details>
 
-### [ Computer Vision + Deep Learning ]
+### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
 |   | Name | Description | Author |
