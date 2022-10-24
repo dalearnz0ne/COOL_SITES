@@ -381,6 +381,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
+#### 3D
+| Name | Description | Author | Year |
+| ---- | ----------- | ------ | ---- |
+| [LaMAR](https://lamar.ethz.ch/) | Benchmarking Localization and Mapping for AR | Sarlin et al. | 2022 |
+
+#### General
 | Name | Author |
 | ---- | ------ |
 | [Datasets](https://paperswithcode.com/datasets) | Papers with Code |
