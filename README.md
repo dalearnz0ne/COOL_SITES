@@ -418,6 +418,22 @@ An awesome collection of resources for coding, computer vision, machine learning
 - Use a deep reading session to digest the main content of the paper as you go through the paper from top to bottom.
 - Explore unfamiliar terms, terminologies, concepts, and methods using external resources.
 - Summarize in your own words essential takeaways, definitions, and algorithms.
+
+* What a summary should have (shortscience.org):
+  - A description of the paper as if you were explaining the concept to a colleague.
+  - Start off the summary with a high level description of the paper.
+  - Explain why the paper is significant.
+  - Use simple examples to break down the concept.
+  - Discuss how the paper fits into the larger field.
+  - Rewrite the formulations in the paper from a different perspective.
+  
+* What a summary should have (deeplearning.ai):
+  - What's new
+  - Key insight
+  - How it works
+  - Results
+  - Why it matters
+  - We're thinking
 </details>
 
 ### [ Computer Vision + Machine Learning + Deep Learning ]
