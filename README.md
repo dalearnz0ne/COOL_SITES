@@ -410,6 +410,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 # Papers
+### [How to Read Research Papers: A Pragmatic Approach for ML Practitioners](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/)
+<details>
+
+- Read the title, abstract, and conclusion to gain a vague understanding of the research effort aims and achievements.
+- Familiarize yourself with the content by diving deeper into the introduction; including the exploration of figures and graphs presented in the paper.
+- Use a deep reading session to digest the main content of the paper as you go through the paper from top to bottom.
+- Explore unfamiliar terms, terminologies, concepts, and methods using external resources.
+- Summarize in your own words essential takeaways, definitions, and algorithms.
+</details>
+
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
