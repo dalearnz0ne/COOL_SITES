@@ -537,6 +537,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | Title | Author | Year |
 | ----- | ------ | ---- |
 | [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
+| [How to Read a Paper](https://ia802301.us.archive.org/33/items/1562574866-185/1562574866-185.pdf) | S. Keshav | 2007 |
 </details>
 
 # Software
