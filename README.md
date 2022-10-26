@@ -185,6 +185,22 @@ An awesome collection of resources for coding, computer vision, machine learning
 | MIT | [Missing Semester](https://missing.csail.mit.edu/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
 </details>
 
+### [ Computer Graphics ]
+<details>
+
+#### Deep Learning Focused
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
+| ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
+
+#### General
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
+| | MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
+</details>
+
 ### [ Computer Vision ]
 <details>
 
@@ -210,7 +226,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | Stanford CS231A | [Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/) | 🛝 Slides \| 📝 [Notes](https://web.stanford.edu/class/cs231a/course_notes.html) | Silvio Savarese | 2022 |
 | | U Toronto CSC2547 | [Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning](http://www.pair.toronto.edu/csc2547-w21/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UCrsmAXnwu6sgccWevW12Dfg) | Animesh Garg | 2021 |
 | | CMU 16-889 | [Learning for 3D Vision](https://learning3d.github.io/index.html) | 🛝 Slides | Shubham Tulsiani | 2022 |
-| ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | | UC San Diego | [Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | 🛝 Slides | Hao Su | 2022 |
 
 #### Deep Learning Focused
@@ -261,7 +276,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
 | Hugging Face | [🤗 Course - Natural Language Processing](https://huggingface.co/course/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) | Abid et al. | 2022 |
-| Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
 | Stanford CS236 | [Deep Generative Models](https://deepgenerativemodels.github.io/) | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
 | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
@@ -316,9 +330,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 | ID | Name | Materials | Author | Year |
 | -- | ---- | --------- | ------ | ---- |
-| CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
 | CMU 15-458/858 | [Discrete Differential Geometry](https://brickisland.net/DDGSpring2022/) | 🛝 Slides \| 📝 [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) | Keenan Crane | 2022 |
-| MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
 | MIT 6.838 | [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
 </details>
 
