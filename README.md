@@ -11,6 +11,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | **[Research](#research)** | **[Software](#software)** |
 | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
 
+
 # Blogs
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
@@ -71,6 +72,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
 </details>
 
+
 # Books
 ### [ Coding ]
 <details>
@@ -127,6 +129,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
 </details>
 
+
 # Cheat Sheets
 ### [ Coding ]
 <details>
@@ -155,6 +158,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 </details>
 
+
 # Courses
 * Almost every course has slides available, indicated with 🛝
 * Lecture videos are indicated with 🎞
@@ -162,6 +166,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 ### [ Coding ]
 <details>
+
+#### General
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| Harvard CS50X | [Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube (2021)](https://www.youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL) | David Malan | 2022 |
+| MIT | [Missing Semester](https://missing.csail.mit.edu/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
 
 #### C++
 | ID | Name | Materials | Author | Year |
@@ -177,16 +187,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Algorithms & Data Structures Project](https://github.com/williamfiset/Algorithms) | 🎞️ [YouTube](https://www.youtube.com/c/WilliamFiset-videos/featured) | Wiliam Fiset | 2017-22 |
 | MIT 6.006 | [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | 📝 [Notes](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/) \| 🎞️ [Videos](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) | Erik Demaine | 2020 |
 | MIT 6.851 | [Advanced Data Structures](http://courses.csail.mit.edu/6.851/spring21/) | 📝 Notes \| 🎞️ Videos | Erik Demaine | 2021 |
-
-#### General
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| Harvard CS50X | [Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube (2021)](https://www.youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL) | David Malan | 2022 |
-| MIT | [Missing Semester](https://missing.csail.mit.edu/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Anish Athalye | 2020 |
 </details>
 
 ### [ Computer Graphics ]
 <details>
+
+#### General
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
+| | MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
 
 #### Deep Learning Focused
 |   | ID | Name | Materials | Author | Year |
@@ -195,11 +205,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | | UNC COMP590 | [Neural Rendering](https://www.cs.unc.edu/~ronisen/teaching/fall_2022/comp_790_neural_rendering_fall_2022.html) | 🛝 Slides | Roni Sengupta | 2022 |
 
-#### General
-|   | ID | Name | Materials | Author | Year |
-| - | -- | ---- | --------- | ------ | ---- |
-| | CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
-| | MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
 </details>
 
 ### [ Computer Vision ]
@@ -215,12 +220,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Uni Tuebingen | [Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | 🛝 Slides \| 📝 [Notes](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | Andreas Geiger | 2022 |
 | | UW CSE 455 | [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) | Joseph Redmon | 2018 |
 
-#### 3D (Traditional)
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| NUS CS4277/CS5477 | [3D Computer Vision](https://nusmods.com/modules/CS5477/3-d-computer-vision) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
-| TUM | [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
-
 #### 3D (Modern)
 |   | ID | Name | Materials | Author | Year |
 | - | -- | ---- | --------- | ------ | ---- |
@@ -228,6 +227,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | U Toronto CSC2547 | [Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning](http://www.pair.toronto.edu/csc2547-w21/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/channel/UCrsmAXnwu6sgccWevW12Dfg) | Animesh Garg | 2021 |
 | | CMU 16-889 | [Learning for 3D Vision](https://learning3d.github.io/index.html) | 🛝 Slides | Shubham Tulsiani | 2022 |
 | | UC San Diego | [Machine Learning Meets Geometry](https://haosulab.github.io/ml-meets-geometry/WI22/index.html) | 🛝 Slides | Hao Su | 2022 |
+
+#### 3D (Traditional)
+| ID | Name | Materials | Author | Year |
+| -- | ---- | --------- | ------ | ---- |
+| NUS CS4277/CS5477 | [3D Computer Vision](https://nusmods.com/modules/CS5477/3-d-computer-vision) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | Gim Hee Lee  | 2021 |
+| TUM | [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2022/mvg2022) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | Daniel Cremers | 2022 |
 
 #### Deep Learning Focused
 |   | ID | Name | Materials | Author | Year |
@@ -407,6 +412,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [VisualData Discovery](https://visualdata.io/discovery) | |
 </details>
 
+
 # Newsletters
 ### [ Machine Learning + Deep Learning ]
 <details>
@@ -421,6 +427,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI |
 | | [The Gradient](https://thegradient.pub/) | |
 </details>
+
 
 # Papers
 ### [How to Read Research Papers: A Pragmatic Approach for ML Practitioners](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/)
@@ -515,8 +522,10 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
 </details>
 
+
 # Projects
 See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for an awesome collection of computer vision, machine learning, and deep learning projects.
+
 
 # Research
 ### [ Computer Vision ]
@@ -552,6 +561,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [How to do good research, get it published](https://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf) | Eamonn Keogh | 2012 |
 | [How to Read a Paper](https://ia802301.us.archive.org/33/items/1562574866-185/1562574866-185.pdf) | S. Keshav | 2007 |
 </details>
+
 
 # Software
 ### [ Computer Vision + Deep Learning ]
@@ -590,6 +600,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Martin Donath | 2022 |
 </details>
 
+
 # Tools
 ### [ Coding ]
 <details>
@@ -618,6 +629,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Obsidian Mkdocs Publisher](https://github.com/ObsidianPublisher) | Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault | ObsidianPublisher | 2022 |
 </details>
 
+
 # Tutorials
 ### [ Computer Vision + Deep Learning ]
 <details>
@@ -638,7 +650,6 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
 </details>
 
-
 ### [ Robotics ]
 <details>
 
@@ -646,6 +657,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | ------ | ----- | ---------- | ---- |
 | [Riemann and Gauss meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization and Control](https://sites.google.com/view/iros2022-tutorial-geometry/) | | IROS | 2022 |
 </details>
+
 
 # Xtras
 ### [ Awesome Repos ]
