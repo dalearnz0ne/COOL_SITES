@@ -193,6 +193,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | - | -- | ---- | --------- | ------ | ---- |
 | | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
 | ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
+| | UNC COMP590 | [Neural Rendering](https://www.cs.unc.edu/~ronisen/teaching/fall_2022/comp_790_neural_rendering_fall_2022.html) | 🛝 Slides | Roni Sengupta | 2022 |
 
 #### General
 |   | ID | Name | Materials | Author | Year |
