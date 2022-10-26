@@ -522,6 +522,14 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
 </details>
 
+### [ Tools ]
+<details>
+
+|   | Name | Description | Author |
+| - | ---- | ----------- | ------ |
+| ⭐ | [Explainpaper](https://www.explainpaper.com/) | A better way to read academic papers | Aman Jha |
+</details>
+
 
 # Projects
 See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for an awesome collection of computer vision, machine learning, and deep learning projects.
