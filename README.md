@@ -643,7 +643,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 </details>
 
 
-# Tutorials & Workshops
+# <a name="tutorials"></a>Tutorials & Workshops
 ### [ Computer Vision + Deep Learning ]
 <details>
 
