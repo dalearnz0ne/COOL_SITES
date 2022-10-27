@@ -286,7 +286,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
 | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
 | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
-| Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
+| Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 📝 [Tutorials](https://medium.com/stanford-cs224w) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
 | Mila IFT6167 | [Neural Scaling Laws and Foundation Models](https://sites.google.com/view/nsl-course/) | 🛝 Slides \| 🎞️ Videos | Irina Rish | 2022 |
 | TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
 | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
@@ -579,12 +579,17 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 |   | Name | Description | Author | Year |
 | - | ---- | ----------- | ------ | ---- |
 | | [Detectron2](https://github.com/facebookresearch/detectron2) | Detectron2 is Meta AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. | Meta AI | 2019 |
-| | [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) | NVIDIA Kaolin library provides a PyTorch API for working with a variety of 3D representations and includes a growing collection of GPU-optimized operations such as modular differentiable rendering, fast conversions between representations, data loading, 3D checkpoints and more | NVIDIA | 2019 |
 | ⭐ | [Lightning](https://github.com/Lightning-AI/lightning) | The ultimate PyTorch research framework. Scale your models, without the boilerplate | Lightning AI | 2022 |
 | ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
-| | [PyTorch3D](https://github.com/facebookresearch/pytorch3d) | PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch | Meta AI | 2020 |
 | ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman | 2022 |
 | | [Theseus](https://github.com/facebookresearch/theseus) | Theseus is an efficient application-agnostic library for building custom nonlinear optimization layers in PyTorch to support constructing various problems in robotics and vision as end-to-end differentiable architectures | Meta AI | 2022 |
+  
+#### 3D
+|   | Name | Description | Author | Year |
+| - | ---- | ----------- | ------ | ---- |
+| | [geomstats](https://geomstats.github.io/) | Geomstats is an open-source Python package for computations, statistics, and machine learning on nonlinear manifolds | Nina Miolane | 2018 |
+| | [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) | NVIDIA Kaolin library provides a PyTorch API for working with a variety of 3D representations and includes a growing collection of GPU-optimized operations such as modular differentiable rendering, fast conversions between representations, data loading, 3D checkpoints and more | NVIDIA | 2019 |
+| | [PyTorch3D](https://github.com/facebookresearch/pytorch3d) | PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch | Meta AI | 2020 |
 
 #### Neural Fields
 | Name | Author | Year |
@@ -638,12 +643,12 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 </details>
 
 
-# Tutorials
+# Tutorials & Workshops
 ### [ Computer Vision + Deep Learning ]
 <details>
 
-| Title  | Video | Conference | Year |
-| ------ | ----- | ---------- | ---- |
+| Title  | Materials | Conference | Year |
+| ------ | --------- | ---------- | ---- |
 | [Denoising Diffusion-based Generative Modeling](https://cvpr2022-tutorial-diffusion-models.github.io/) | 🎞️ [YouTube](https://www.youtube.com/watch?v=cS6JQpEY9cs) | CVPR | 2022 |
 | [Neural Fields in Computer Vision](https://neuralfields.cs.brown.edu/cvpr22) | 🎞️ [YouTube](https://youtu.be/PeRRp1cFuH4) | CVPR | 2022 |
 | [Neural Geometry and Rendering](https://ngr-co3d.github.io/) | TBD | ECCV | 2022 |
@@ -653,16 +658,18 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 ### [ Deep Learning ]
 <details>
 
-| Title  | Video | Conference | Year |
-| ------ | ----- | ---------- | ---- |
+| Title  | Materials | Conference | Year |
+| ------ | --------- | ---------- | ---- |
 | [DeepMath](https://deepmath-conference.com/) | 🎞️ [YouTube](https://www.youtube.com/channel/UCamugMiftSeZo4EjdtePPyw) | DeepMath | 2018-22 |
+| [Has it Trained Yet?](https://hity-workshop.github.io/NeurIPS2022/) | TBD | NeurIPS | 2022 |
 </details>
 
 ### [ Robotics ]
 <details>
 
-| Title  | Video | Conference | Year |
-| ------ | ----- | ---------- | ---- |
+
+| Title  | Materials | Conference | Year |
+| ------ | --------- | ---------- | ---- |
 | [Riemann and Gauss meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization and Control](https://sites.google.com/view/iros2022-tutorial-geometry/) | | IROS | 2022 |
 </details>
 
@@ -679,7 +686,6 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 ##### General
 | Name | Author |
 | ---- | ------ |
-| [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) | Tim Zhang |
 | [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Christos Christofidis |
 | [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | heejkoo |
@@ -688,6 +694,12 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) | Andreas Kouzelis |
 | [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) | Ritchie Ng |
 | [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | Min-Hung Chen |
+
+##### 3D
+| Name | Author |
+| ---- | ------ |
+| [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) | Tim Zhang |
+| [Awesome 3D-aware Image Synthesis](https://weihaox.github.io/projects/awesome-3d-aware/) | Wei Haox |
 
 ##### Neural Fields
 | Name | Author |
@@ -724,5 +736,6 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | | [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | This is an advanced curriculum for getting up to speed with some of the latest developments in deep learning | Jacob Hilton |
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
+| | [Machine Learning for Art](https://ml4a.net/) | ml4a is a collection of tools and educational resources which apply techniques from machine learning to arts and creativity | Gene Kogan |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
 </details>
