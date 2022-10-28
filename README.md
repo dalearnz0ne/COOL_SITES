@@ -3,9 +3,9 @@
 # `COOL_SITES` ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful). Exceptional content is indicated with ⭐.
 
-***
+<!-- ***
 
-# `Table of Contents`
+# `Table of Contents` -->
 | <h4 align="center">(╯°□°）╯</h4> | <h4 align="center">︵ ┻━┻</h4> |
 | :------- | :------- |
 | **[`Blogs`](#blogs)** | **[`Books`](#books)** |
