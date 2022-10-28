@@ -587,7 +587,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 #### 3D
 |   | Name | Description | Author | Year |
 | - | ---- | ----------- | ------ | ---- |
-| | [geomstats](https://geomstats.github.io/) | Geomstats is an open-source Python package for computations, statistics, and machine learning on nonlinear manifolds | Nina Miolane | 2018 |
+| ⭐ | [geomstats](https://geomstats.github.io/) | Geomstats is an open-source Python package for computations, statistics, and machine learning on nonlinear manifolds [📖](https://hal.inria.fr/hal-03766900) | Nina Miolane | 2018 |
 | | [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) | NVIDIA Kaolin library provides a PyTorch API for working with a variety of 3D representations and includes a growing collection of GPU-optimized operations such as modular differentiable rendering, fast conversions between representations, data loading, 3D checkpoints and more | NVIDIA | 2019 |
 | | [PyTorch3D](https://github.com/facebookresearch/pytorch3d) | PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch | Meta AI | 2020 |
 
