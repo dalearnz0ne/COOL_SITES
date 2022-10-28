@@ -7,13 +7,13 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 # `Table of Contents`
 | <h4 align="center">(╯°□°）╯</h4> | <h4 align="center">︵ ┻━┻</h4> |
-| :-------: | :-------: |
-| **[Blogs](#blogs)** | **[Books](#books)** |
-| **[Cheat Sheets](#cheat-sheets)** | **[Courses](#courses)** |
-| **[Datasets](#datasets)** | **[Newsletters](#newsletters)** |
-| **[Papers](#papers)** | **[Projects](#projects)** |
-| **[Research](#research)** | **[Software](#software)** |
-| **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
+| :------- | :------- |
+| **[`Blogs`](#blogs)** | **[`Books`](#books)** |
+| **[`Cheat Sheets`](#cheat-sheets)** | **[`Courses`](#courses)** |
+| **[`Datasets`](#datasets)** | **[`Newsletters`](#newsletters)** |
+| **[`Papers`](#papers)** | **[`Projects`](#projects)** |
+| **[`Research`](#research)** | **[`Software`](#software)** |
+| **[`Tools`](#tools)** | **[`Tutorials`](#tutorials)** | **[`Xtras`](#xtras)** |
 
 ***
 
