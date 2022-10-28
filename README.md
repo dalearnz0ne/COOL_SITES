@@ -103,6 +103,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Luciano Ramalho | 2022 |
 </details>
 
+#
 ### [ Computer Vision ]
 <details>
 
@@ -112,6 +113,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) \| [draft](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | Simon J.D. Prince | 2012 |
 </details>
 
+#
 ### [ Machine Learning ]
 <details>
 
@@ -123,6 +125,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) \| [draft](https://github.com/probml/pml2-book/releases/latest) | Kevin Murphy | 2023 |
 </details>
 
+#
 ### [ Deep Learning ]
 <details>
 
@@ -156,6 +159,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Python Leetcode](https://github.com/shiwentao00/Python-leetcode) | Wentao Shi | 2022 |
 </details>
 
+#
 ### [ Machine Learning + Deep Learning ]
 <details>
 
@@ -171,6 +175,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 * Almost every course has slides available, indicated with 🛝
 * Lecture videos are indicated with 🎞
 * Notes are indicated with 📝
+#
 
 ### [ Coding ]
 <details>
@@ -197,6 +202,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | MIT 6.851 | [Advanced Data Structures](http://courses.csail.mit.edu/6.851/spring21/) | 📝 Notes \| 🎞️ Videos | Erik Demaine | 2021 |
 </details>
 
+#
 ### [ Computer Graphics ]
 <details>
 
@@ -212,9 +218,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | Stanford CS348I | [Computer Graphics in the Era of AI](http://cs348i.stanford.edu/) | | C. Karen Liu | 2021 |
 | ⭐ | MIT 6.S980 | [Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics/) | 🛝 Slides \| 🎞️ Videos | Vincent Sitzmann | 2022 |
 | | UNC COMP590 | [Neural Rendering](https://www.cs.unc.edu/~ronisen/teaching/fall_2022/comp_790_neural_rendering_fall_2022.html) | 🛝 Slides | Roni Sengupta | 2022 |
-
 </details>
 
+#
 ### [ Computer Vision ]
 <details>
 
@@ -264,6 +270,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [MIT 16.485](https://arxiv.org/abs/2206.00777) | [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) | 🛝 Slides \| 📝 Notes | Luca Carlone | 2022 |
 </details>
 
+#
 ### [ Deep Learning ]
 <details>
 
@@ -309,6 +316,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Mila IFT6169 | [Theoretical principles for deep learning](http://mitliagkas.github.io/ift6085-dl-theory-class/) | 🛝 Slides \| 📝 Notes | Yannis Mitliagkas | 2022 |
 </details>
 
+#
 ### [ [deeplearning.ai](https://www.deeplearning.ai/courses/) ]
 <details>
 
@@ -324,6 +332,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Coursera | [Machine Learning for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | 🎞️ Videos | Andrew Ng | 2022 |
 </details>
 
+#
 ### [ fast.ai ]
 <details>
 
@@ -339,6 +348,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | | [Walk with fastai -- Revisited](https://thezachmueller.gumroad.com/p/walk-with-fastai-revisited) | 📝 Notes \| 🎞️ Videos | Zachary Mueller | 2022 |
 </details>
 
+#
 ### [ Geometric Computing ]
 <details>
 
@@ -348,6 +358,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | MIT 6.838 | [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html) | 🛝 Slides \| 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW) | Justin Solomon | 2021 |
 </details>
 
+#
 ### [ Geometric Deep Learning ]
 <details>
 
@@ -362,6 +373,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Stanford CS468 | [Non-Euclidean Methods in Machine Learning](http://graphics.stanford.edu/courses/cs468-20-fall/index.html) | 🛝 Slides | Tolga Birdal | 2020 |
 </details>
 
+#
 ### [ Machine Learning ]
 <details>
 
@@ -382,6 +394,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | Brown | [Seeing Theory](https://seeing-theory.brown.edu/) | 📖 [Book](https://seeing-theory.brown.edu/doc/seeing-theory.pdf) | Daniel Kunin | 2018 |
 </details>
 
+#
 ### [ MLOps ]
 <details>
 
@@ -393,6 +406,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | arXiv | Operationalizing Machine Learning: An Interview Study | 📖 [Paper](https://arxiv.org/abs/2209.09125) | Shreya Shankar et al. | 2022 |
 </details>
 
+#
 ### [ Reinforcement Learning ]
 <details>
 
@@ -467,6 +481,7 @@ An awesome collection of resources for coding, computer vision, machine learning
   - We're thinking
 </details>
 
+#
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
@@ -525,6 +540,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [Annotated PyTorch Paper Implementations](https://nn.labml.ai/) | labml.ai |
 </details>
 
+#
 ### [ Metrics ]
 <details>
 
@@ -533,6 +549,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Top Publications](https://scholar.google.com/citations?view_op=top_venues&hl=en) | Google Scholar |
 </details>
 
+#
 ### [ Tools ]
 <details>
 
@@ -558,6 +575,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [How to do research in Computer Vision](http://3dvision.princeton.edu/courses/COS598/2014sp/slides/lecture21_how2research.pdf) | Jianxiong Xiao | 2012 |
 </details>
 
+#
 ### [ Machine Learning + Deep Learning ]
 <details>
 
@@ -573,6 +591,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/) | Pranav Rajpurkar | 2022 |
 </details>
 
+#
 ### [ General ]
 <details>
 
@@ -597,7 +616,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | ⭐ | [open-mmlab](https://github.com/open-mmlab) | OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era | OpenMMLab | 2022 |
 | ⭐ | [Py**T**orch **Im**age **M**odels](https://github.com/rwightman/pytorch-image-models) | A collection of SOTA image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts | Ross Wightman | 2022 |
 | | [Theseus](https://github.com/facebookresearch/theseus) | Theseus is an efficient application-agnostic library for building custom nonlinear optimization layers in PyTorch to support constructing various problems in robotics and vision as end-to-end differentiable architectures | Meta AI | 2022 |
-  
+
 #### 3D
 |   | Name | Description | Author | Year |
 | - | ---- | ----------- | ------ | ---- |
@@ -618,6 +637,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [HyperSLAM](https://github.com/VIS4ROB-lab/HyperSLAM) | Modular, open-source implementations of continuous-time simultaneous localization and mapping algorithms | [ETH Zurich V4RL](https://asl.ethz.ch/v4rl.html) | 2022 |
 </details>
 
+#
 ### [ Knowledge Management ]
 <details>
 
@@ -638,6 +658,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Code Clippy](https://github.com/CodedotAl/code-clippy-vscode) | Inline code suggestions from your friendly neighborhood hacker Clippy for VSCode | CodedotAI | 2022 |  
 </details>
 
+#
 ### [ Computer Vision + Deep Learning ]
 <details>
 
@@ -648,6 +669,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/) | David Gschwend | 2018 |
 </details>
 
+#
 ### [ Knowledge Management ]
 <details>
 
@@ -671,6 +693,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Vision-and-Language Pre-training](https://vlp-tutorial.github.io/) | 📖 [Paper](https://arxiv.org/abs/2210.09263) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLD7HFcN7LXReStQTD5HqA8YY4iXDeh3NE) | CVPR | 2022|
 </details>
 
+#
 ### [ Deep Learning ]
 <details>
 
@@ -680,6 +703,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Has it Trained Yet?](https://hity-workshop.github.io/NeurIPS2022/) | TBD | NeurIPS | 2022 |
 </details>
 
+#
 ### [ Robotics ]
 <details>
 
@@ -725,6 +749,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Awesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | NeurReps |
 </details>
 
+#
 ### [ Coding ]
 <details>
 
@@ -744,6 +769,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | ⭐ | [NeetCode 150](https://neetcode.io/practice) | A list of LC questions, organized by topics and sorted from easiest to hardest. Each problem is accompanied by a thorough video explanation. | NeetCode.io |
 </details>
 
+#
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
