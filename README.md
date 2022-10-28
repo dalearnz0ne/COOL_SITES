@@ -1,7 +1,11 @@
-# COOL_SITES ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+***
+
+# `COOL_SITES` ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 An awesome collection of resources for coding, computer vision, machine learning, and deep learning (heavily biased towards whatever I find interesting and/or useful). Exceptional content is indicated with ⭐.
 
-# Table of Contents
+***
+
+# `Table of Contents`
 | <h4 align="center">(╯°□°）╯</h4> | <h4 align="center">︵ ┻━┻</h4> |
 | :-------: | :-------: |
 | **[Blogs](#blogs)** | **[Books](#books)** |
@@ -11,8 +15,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | **[Research](#research)** | **[Software](#software)** |
 | **[Tools](#tools)** | **[Tutorials](#tutorials)** | **[Xtras](#xtras)** |
 
+***
 
-# Blogs
+# `Blogs`
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
@@ -72,8 +77,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
 </details>
 
+***
 
-# Books
+# `Books`
 ### [ Coding ]
 <details>
 
@@ -129,8 +135,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) \| [draft](https://github.com/udlbook/udlbook/releases/download/v0.2.0/UnderstandingDeepLearning_01_10_22_C.pdf) | Simon J.D. Prince | 2022-23 |
 </details>
 
+***
 
-# Cheat Sheets
+# `Cheat Sheets`
 ### [ Coding ]
 <details>
 
@@ -158,8 +165,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | ⭐ | [VIP Cheatsheets](https://stanford.edu/~shervine/teaching/) | Shervine Amidi | 2019-20 |
 </details>
 
+***
 
-# Courses
+# `Courses`
 * Almost every course has slides available, indicated with 🛝
 * Lecture videos are indicated with 🎞
 * Notes are indicated with 📝
@@ -395,8 +403,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 
 </details>
 
+***
 
-# Datasets
+# `Datasets`
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
@@ -412,8 +421,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [VisualData Discovery](https://visualdata.io/discovery) | |
 </details>
 
+***
 
-# Newsletters
+# `Newsletters`
 ### [ Machine Learning + Deep Learning ]
 <details>
 
@@ -428,8 +438,9 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [The Gradient](https://thegradient.pub/) | |
 </details>
 
+***
 
-# Papers
+# `Papers`
 ### [How to Read Research Papers: A Pragmatic Approach for ML Practitioners](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/)
 <details>
 
@@ -531,11 +542,12 @@ An awesome collection of resources for coding, computer vision, machine learning
 </details>
 
 
-# Projects
+# `Projects`
 See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for an awesome collection of computer vision, machine learning, and deep learning projects.
 
+***
 
-# Research
+# `Research`
 ### [ Computer Vision ]
 <details>
 
@@ -570,8 +582,9 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [How to Read a Paper](https://ia802301.us.archive.org/33/items/1562574866-185/1562574866-185.pdf) | S. Keshav | 2007 |
 </details>
 
+***
 
-# Software
+# `Software`
 ### [ Computer Vision + Deep Learning ]
 <details>
 
@@ -613,8 +626,9 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Martin Donath | 2022 |
 </details>
 
+***
 
-# Tools
+# `Tools`
 ### [ Coding ]
 <details>
 
@@ -642,8 +656,9 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Obsidian Mkdocs Publisher](https://github.com/ObsidianPublisher) | Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault | ObsidianPublisher | 2022 |
 </details>
 
+***
 
-# <a name="tutorials"></a>Tutorials & Workshops
+# <a name="tutorials"></a>`Tutorials & Workshops`
 ### [ Computer Vision + Deep Learning ]
 <details>
 
@@ -673,8 +688,9 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | [Riemann and Gauss meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization and Control](https://sites.google.com/view/iros2022-tutorial-geometry/) | | IROS | 2022 |
 </details>
 
+***
 
-# Xtras
+# `Xtras`
 ### [ Awesome Repos ]
 <details>
 
@@ -739,3 +755,5 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | | [Machine Learning for Art](https://ml4a.net/) | ml4a is a collection of tools and educational resources which apply techniques from machine learning to arts and creativity | Gene Kogan |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
 </details>
+
+***
