@@ -18,6 +18,15 @@ An awesome collection of resources for coding, computer vision, machine learning
 ***
 
 # `Blogs`
+### [ Coding ]
+<details>
+
+#### Specific Posts
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) | Simon Willison | 2022 |
+</details>
+
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
@@ -45,6 +54,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
 | ⭐ | [Distill](https://distill.pub/) | |
 | ⭐ | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
+| | [mlops.systems](https://mlops.systems/) | Alex Strick van Linschoten |
 | | [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/) | Aakash Nain |
 | | [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
 | ⭐ | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
@@ -66,6 +76,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### Specific Posts
 | Title  | Author | Year |
 | ------ | ------ | ---- |
+| [A Guide to Production Level Deep Learning](https://maharshi-yeluri.medium.com/a-guide-to-production-level-deep-learning-784de4f34da) | Maharshi Yeluri | 2020 |
 | [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) | Andrej Karpathy | 2019 |
 | [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder | 2016 |
 | [Binary vs. Multi-Class Logistic Regression](https://chrisyeh96.github.io/2018/06/11/logistic-regression.html) | Chris Yeh | 2018 |
@@ -75,6 +86,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) | Edward Yang | 2019 |
 | [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/) | Leo Gao | 2019 |
 | [Visualizing and Debugging Neural Networks](https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Visualizing-and-Debugging-Neural-Networks-with-PyTorch-and-W-B--Vmlldzo2OTUzNA) | Weights & Biases | 2022 |
+</details>
+
+### [ Mathematics ]
+<details>
+
+#### Specific Posts
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [Exponentially Better Rotations](https://thenumb.at/Exponential-Rotations/) | Max Slater | 2022 |
+| [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) | Marc ten Bosch | 2020 |
 </details>
 
 ***
@@ -557,6 +578,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 |   | Name | Description | Author |
 | - | ---- | ----------- | ------ |
 | ⭐ | [Explainpaper](https://www.explainpaper.com/) | A better way to read academic papers | Aman Jha |
+| | [LaPreprint](https://github.com/roaldarbol/LaPreprint) | A template for easily creating pretty, nicely formatted preprints in LaTeX | Mikkel Roald-Arbøl |
 </details>
 
 ***
@@ -768,6 +790,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | | [Coding Interview University](https://github.com/jwasham/coding-interview-university) | The items listed here will prepare you well for a technical interview at just about any software company, including the giants | John Washam |
 | | [Fira Code](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Nikita Prokopov |
 | ⭐ | [NeetCode 150](https://neetcode.io/practice) | A list of LC questions, organized by topics and sorted from easiest to hardest. Each problem is accompanied by a thorough video explanation. | NeetCode.io |
+| | [The Algorithms](https://github.com/TheAlgorithms) | Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language | TheAlgorithms |
 </details>
 
 #
@@ -781,6 +804,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | ⭐ | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | List of courses in DL, ML, RL, CV, NLP | Mario |
 | | [Do You Even Learn](https://github.com/BAILOOL/DoYouEvenLearn) | Essential Guide to keep up with AI/ML/DL/CV | Alex Bailo |
 | | [Machine Learning for Art](https://ml4a.net/) | ml4a is a collection of tools and educational resources which apply techniques from machine learning to arts and creativity | Gene Kogan |
+| | [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) | A place to collaborate and share course notes on all topics related to machine learning, NLP, and AI | dair-ai |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
 </details>
 
