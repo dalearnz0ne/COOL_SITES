@@ -230,7 +230,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 #### General
 |   | ID | Name | Materials | Author | Year |
 | - | -- | ---- | --------- | ------ | ---- |
-| | CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2021/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2020 |
+| | CMU 15-462/662 | [Computer Graphics](http://15462.courses.cs.cmu.edu/fall2022/) | 🛝 Slides \| 🎞️ [YouTube (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) | Keenan Crane | 2022 |
 | | MIT 6.837 | Introduction to Computer Graphics | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) | Justin Solomon | 2021 |
 
 #### Deep Learning Focused
