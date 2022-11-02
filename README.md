@@ -438,7 +438,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 | Stanford CS285 | [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) | Sergey Levine | 2022 |
 | Stanford CS234 | [Reinforcement Learning](https://web.stanford.edu/class/cs234/index.html) | 🛝 Slides \| 🎞️ [YouTube (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | Emma Brunskill | 2022 |
 | | [Reinforcement Learning Fundamentals](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) | Duane Rich | 2022 |
+</details>
 
+#
+### [ Seminar Series ]
+<details>
+
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | MSR | [AI Distinguished Lecture Series](https://www.youtube.com/playlist?list=PLD7HFcN7LXRdF6EcEFmrXGo4pngaR4Z_p) | 🎞️ [YouTube]() | Microsoft | 2020 |
+| ⭐ | TUM | [AI Guest Lecture Series](https://niessner.github.io/TUM-AI-Lecture-Series/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt) | Matthias Niessner | 2022 |
+| | Deep Mind | [Deep Learning Lecture Series](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) | 🛝 Slides \| 🎞️ YouTube ([2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF), [2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)) | Google | 2021 |
+| ⭐ | CMU | [Tartan SLAM Series](https://theairlab.org/tartanslamseries2/) | 🎞️ YouTube ([Spring 2021](https://www.youtube.com/playlist?list=PLpJxwrRy4QbvkeWEkSSBhny4C2FhvQ08i), [Fall 2021](https://www.youtube.com/playlist?list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)) | AirLab | 2021 |
 </details>
 
 ***
