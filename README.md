@@ -436,6 +436,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | -- | ---- | --------- | ------ | ---- |
 | Stanford CS285 | [Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) | Sergey Levine | 2022 |
 | Stanford CS234 | [Reinforcement Learning](https://web.stanford.edu/class/cs234/index.html) | 🛝 Slides \| 🎞️ [YouTube (2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | Emma Brunskill | 2022 |
+| | [Reinforcement Learning Fundamentals](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) | Duane Rich | 2022 |
 
 </details>
 
