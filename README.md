@@ -80,6 +80,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) | Andrej Karpathy | 2019 |
 | [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) | Sebastian Ruder | 2016 |
 | [Binary vs. Multi-Class Logistic Regression](https://chrisyeh96.github.io/2018/06/11/logistic-regression.html) | Chris Yeh | 2018 |
+| [How to Start a Deep Learning Project?](https://threadreaderapp.com/thread/1441027241870118913.html) | Matthias Niessner | 2022 |
 | [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) | Horace He | 2022 |
 | [Normalization in Deep Learning](https://arthurdouillard.com/post/normalization/) | Arthur Douillard | 2018 |
 | [Optimization in Deep Learning: AdaGrad, RMSProp, ADAM](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/) | Artem Oppermann | 2021 |
