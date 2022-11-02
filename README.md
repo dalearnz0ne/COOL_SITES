@@ -807,6 +807,7 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | | [Machine Learning for Art](https://ml4a.net/) | ml4a is a collection of tools and educational resources which apply techniques from machine learning to arts and creativity | Gene Kogan |
 | | [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) | A place to collaborate and share course notes on all topics related to machine learning, NLP, and AI | dair-ai |
 | | [Modelverse](https://modelverse.cs.cmu.edu/) | A search engine for generative models | Daohan Lu |
+| ⭐ | srush Puzzles: [Autodiff](https://github.com/srush/Autodiff-Puzzles), [GPU](https://github.com/srush/GPU-Puzzles), [Tensor](https://github.com/srush/Tensor-Puzzles) |  A series of self-contained puzzles for learning about: derivatives in tensor libraries, building GPU kernels using NUMBA, reimplementing functions in the NumPy standard library without magic | Sasha Rush |
 </details>
 
 ***
