@@ -30,6 +30,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
+#### General
+|   | Name  | Author |
+| - | ----- | ------ |
+| | [AI Summer](https://theaisummer.com/) | Sergios Karagiannakos |
+| | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
+| ⭐ | [Distill](https://distill.pub/) | |
+| ⭐ | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
+| | [mlops.systems](https://mlops.systems/) | Alex Strick van Linschoten |
+| | [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/) | Aakash Nain |
+| | [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
+| ⭐ | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
+
 #### Academic
 | Name  | Author |
 | ----- | ------ |
@@ -46,18 +58,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Meta AI Blog](https://ai.facebook.com/blog/) | Meta Research |
 | [OpenAI Blog](https://openai.com/blog/) | OpenAI |
 | [Paper Digest Blog](https://www.paperdigest.org/blog/) | Paper Digest |
-
-#### General
-|   | Name  | Author |
-| - | ----- | ------ |
-| | [AI Summer](https://theaisummer.com/) | Sergios Karagiannakos |
-| | [Blog](http://karpathy.github.io/)  | Andrej Karpathy  |
-| ⭐ | [Distill](https://distill.pub/) | |
-| ⭐ | [Lil'Log](https://lilianweng.github.io/) | Lilian Weng |
-| | [mlops.systems](https://mlops.systems/) | Alex Strick van Linschoten |
-| | [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/) | Aakash Nain |
-| | [Tombone's Computer Vision Blog](https://www.computervisionblog.com/) | Tomasz Malisiewcz |
-| ⭐ | [Visualizing machine learning one concept at a time](https://jalammar.github.io/) | Jay Alammar |
 
 #### Geometric Deep Learning
 | Name  | Author | Year |
@@ -104,6 +104,11 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Coding ]
 <details>
 
+#### General
+| Title  | Author | Year |
+| ------ | ------ | ---- |
+| [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) | Jeff Erickson | 2019 |  
+
 #### C++
 | Title  | Author | Year |
 | ------ | ------ | ---- |
@@ -111,11 +116,6 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) | Scott Meyers | 2014 |
 | [The C++ Programming Language](https://www.stroustrup.com/4th.html) | Bjarne Stroustrup | 2013 |
 | [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) | Stack Overflow | 2022 |
-  
-#### General
-| Title  | Author | Year |
-| ------ | ------ | ---- |
-| [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) | Jeff Erickson | 2019 |  
 
 #### Python
 | Title  | Author | Year |
@@ -445,16 +445,16 @@ An awesome collection of resources for coding, computer vision, machine learning
 ### [ Computer Vision + Machine Learning + Deep Learning ]
 <details>
 
-#### 3D
-| Name | Description | Author | Year |
-| ---- | ----------- | ------ | ---- |
-| [LaMAR](https://lamar.ethz.ch/) | Benchmarking Localization and Mapping for AR | Sarlin et al. | 2022 |
-
 #### General
 | Name | Author |
 | ---- | ------ |
 | [Datasets](https://paperswithcode.com/datasets) | Papers with Code |
 | [VisualData Discovery](https://visualdata.io/discovery) | |
+
+#### 3D
+| Name | Description | Author | Year |
+| ---- | ----------- | ------ | ---- |
+| [LaMAR](https://lamar.ethz.ch/) | Benchmarking Localization and Mapping for AR | Sarlin et al. | 2022 |
 </details>
 
 ***
@@ -776,14 +776,6 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 ### [ Coding ]
 <details>
 
-#### C++
-| Name  | Author |
-| ----- | ------ |
-| [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup |
-| [Learn C++](https://www.learncpp.com/) | Alex Pomeranz |
-| [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra |
-| [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | |
-  
 #### General
 |   | Name | Description | Author |
 | - | ---- | ----------- | ------ |
@@ -791,6 +783,14 @@ See my [COOL_PROJECTS](https://github.com/dalearnz0ne/COOL_PROJECTS/) repo for a
 | | [Fira Code](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Nikita Prokopov |
 | ⭐ | [NeetCode 150](https://neetcode.io/practice) | A list of LC questions, organized by topics and sorted from easiest to hardest. Each problem is accompanied by a thorough video explanation. | NeetCode.io |
 | | [The Algorithms](https://github.com/TheAlgorithms) | Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language | TheAlgorithms |
+
+#### C++
+| Name  | Author |
+| ----- | ------ |
+| [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Bjarne Stroustrup |
+| [Learn C++](https://www.learncpp.com/) | Alex Pomeranz |
+| [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features) | Anthony Calandra |
+| [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) | Colby Pike | |
 </details>
 
 #
