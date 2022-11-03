@@ -564,6 +564,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | Tewari et al. | 2022 |
 | [Deep learning for monocular depth estimation: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925231220320014) | Yue Ming | 2021 |
 | [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747) | Florinel-Alin Croitoru | 2022 |
+| [Enable Deep Learning on Mobile Devices: Methods, Systems, and Applications](https://arxiv.org/abs/2204.11786) | Cai et al. | 2022 |
 | [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) | Xie et al. | 2022 |
 
 #### Theses
