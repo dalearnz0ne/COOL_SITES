@@ -317,17 +317,18 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | Mila IFT6135 | [Representation Learning](https://sites.google.com/mila.quebec/ift6135/) | 🛝 Slides | Aaron Courville | 2019 |
   
 #### Special Topics
-| ID | Name | Materials | Author | Year |
-| -- | ---- | --------- | ------ | ---- |
-| Hugging Face | [🤗 Course - Natural Language Processing](https://huggingface.co/course/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) | Abid et al. | 2022 |
-| Stanford CS236 | [Deep Generative Models](https://deepgenerativemodels.github.io/) | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
-| TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
-| Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
-| Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
-| Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 📝 [Tutorials](https://medium.com/stanford-cs224w) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
-| Mila IFT6167 | [Neural Scaling Laws and Foundation Models](https://sites.google.com/view/nsl-course/) | 🛝 Slides \| 🎞️ Videos | Irina Rish | 2022 |
-| TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
-| Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
+|   | ID | Name | Materials | Author | Year |
+| - | -- | ---- | --------- | ------ | ---- |
+| | Hugging Face | [🤗 Course - Natural Language Processing](https://huggingface.co/course/) | 📝 Notes \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) | Abid et al. | 2022 |
+| | Stanford CS236 | [Deep Generative Models](https://deepgenerativemodels.github.io/) | 🛝 Slides \| 📝 [Notes](https://deepgenerativemodels.github.io/notes/) | Stefano Ermon | 2021 |
+| | TUM IN2107 | [Deep Learning for Satellite Imagery](https://dvl.in.tum.de/teaching/dl4si-ws22/) | | Laura Leal-Taixé | 2023 |
+| | Stanford CS330 | [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | Chelsea Finn | 2022 |
+| | Berkeley CS294 | [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | 🛝 Slides \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | Peter Abbeel | 2020 |
+| ⭐ | Stanford CS224N | [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | 🛝 Slides \| 📝 Notes \| 📝 [Tutorials](https://medium.com/stanford-cs224w) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Chris Manning | 2022 |
+| | Mila IFT6167 | [Neural Scaling Laws and Foundation Models](https://sites.google.com/view/nsl-course/) | 🛝 Slides \| 🎞️ Videos | Irina Rish | 2022 |
+| | TUM IN4954 | [Recent trends in Automated Machine Learning](https://dvl.in.tum.de/teaching/automl_ss21/) | 🛝 Slides | Laura Leal-Taixé | 2021 |
+| ⭐ | MIT 6.S965 | [TinyML and Efficient Deep Learning](https://efficientml.ai/) | 🛝 Slides \| 📝 [Notes](https://github.com/mit-han-lab/6s965-fall2022/tree/main/notes) \| 🎞️ [YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-ocildRaxjjBy6MR1ZsNCU7) | Song Han | 2022 |
+| | Stanford CS25 | [Transformers United](https://web.stanford.edu/class/cs25/) | 🎞️ [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | Div Garg | 2021 |
 
 #### Theory
 |   | ID | Name | Materials | Author | Year |
