@@ -533,7 +533,7 @@ An awesome collection of resources for coding, computer vision, machine learning
 | | [Recent Papers](https://papers.labml.ai/papers/recent/) | labml.ai |
 | | [Semantic Scholar](https://www.semanticscholar.org/) | Allen Institute for AI |
 | ⭐ | [Trending Research](https://paperswithcode.com/) | Papers with Code |
-| | [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) | |
+| | [Zeta Alpha](https://search.zeta-alpha.com/?q=&retrieval_unit=document&sort_by=citations) [🐦](https://twitter.com/zetavector) | |
 
 #### Reading Groups
 |   | Name | Materials | Author |
